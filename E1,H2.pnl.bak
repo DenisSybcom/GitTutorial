@@ -1,0 +1,8297 @@
+V 14
+1
+LANG:10027 0 
+PANEL,-1 -1 1910 888 N "WF_Frame" 1
+"$dp"
+E E E E E 1 -1 -1 0  75 91.99987776196906
+""0  1
+E E 3
+"CBRef" "1"
+"EClose" E
+"dpi" "120"
+0 0 0
+""
+DISPLAY_LAYER, 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+LAYER, 0 
+1
+LANG:10027 0 
+4 808
+"LINE527"
+""
+1 1200 90 E E E 1 E 1 E N "STD_valve_open" E N {255,255,255} E E
+ E E
+807 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E  1200.000000000001 89.9999999999997 1880 89.9999999999997
+4 802
+"LINE521"
+""
+1 670 510 E E E 1 E 1 E N "STD_valve_open" E N {255,255,255} E E
+ E E
+801 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E  670.0000000000002 509.9999999999997 840 509.9999999999997
+4 803
+"LINE522"
+""
+1 960 510 E E E 1 E 1 E N "STD_valve_open" E N {255,255,255} E E
+ E E
+802 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E  960.0000000000002 509.9999999999997 1110 509.9999999999997
+4 804
+"LINE523"
+""
+1 1230 510 E E E 1 E 1 E N "STD_valve_open" E N {255,255,255} E E
+ E E
+803 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E  1230 509.9999999999997 1400 509.9999999999997
+4 805
+"LINE524"
+""
+1 1530 510 E E E 1 E 1 E N "STD_valve_open" E N {255,255,255} E E
+ E E
+804 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E  1530 509.9999999999997 1700 509.9999999999997
+4 800
+"LINE519"
+""
+1 9.999999999999567 710 E E E 1 E 1 E N "STD_valve_open" E N {255,255,255} E E
+ E E
+799 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E  10.0000000000004 709.9999999999997 639.9999999999998 709.9999999999997
+4 793
+"LINE512"
+""
+1 840 209.9999999999996 E E E 1 E 1 E N "STD_valve_open" E N {255,255,255} E E
+ E E
+792 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E  840 210 840 510.0000000000017
+4 794
+"LINE513"
+""
+1 1110 210 E E E 1 E 1 E N "STD_valve_open" E N {255,255,255} E E
+ E E
+793 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E  1110 210.0000000000004 1110 510.0000000000021
+4 795
+"LINE514"
+""
+1 1400 210 E E E 1 E 1 E N "STD_valve_open" E N {255,255,255} E E
+ E E
+794 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E  1400 210.0000000000004 1400 510.0000000000021
+4 796
+"LINE515"
+""
+1 1700 210 E E E 1 E 1 E N "STD_valve_open" E N {255,255,255} E E
+ E E
+795 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E  1700 210.0000000000004 1700 510.0000000000021
+4 787
+"LINE506"
+""
+1 390 390 E E E 1 E 1 E N "STD_valve_open" E N {255,255,255} E E
+ E E
+786 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E  390 390.0000000000005 390 710.0000000000001
+4 786
+"LINE505"
+""
+1 360 390 E E E 1 E 1 E N "STD_valve_open" E N {255,255,255} E E
+ E E
+785 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E  359.9999999999999 390.0000000000005 359.9999999999999 710.0000000000001
+4 757
+"LINE478"
+""
+1 500 39.99999999999972 E E E 1 E 1 E N "STD_trend_pen6" E N {255,255,255} E E
+ E E
+756 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E  500 40.00000000000003 500 260
+4 772
+"LINE491"
+""
+1 490 709.9999999999999 E E E 1 E 1 E N "SiemensNaturalGreenDark" E N {255,255,255} E E
+ E E
+771 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E  490 709.9999999999999 490 849.0000000000001
+4 770
+"LINE489"
+""
+1 550 159.9999999999999 E E E 1 E 1 E N "SiemensNaturalGreenDark" E N {255,255,255} E E
+ E E
+769 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E  550 160 550 259
+4 758
+"LINE496"
+""
+1 10 330 E E E 1 E 1 E N "equipment_ready_to_work" E N {255,255,255} E E
+ E E
+757 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E  10.00000000000039 329.9999999999997 305.7583326255407 329.9999999999997
+4 114
+"LINE116"
+""
+1 550 260 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+113 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E  550 260 550 209.9561050240045
+2 74
+"PRIMITIVE_TEXT39"
+""
+1 1951.8938248705 116.8868067766228 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+73 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 1.187686590935527 0 1 -2288.238122728551 173.1131932233772 0 E 1951.8938248705 116.8868067766228 2004 150
+0 2 2 "0s" 0 0 0 192 0 0  1951.8938248705 116.8868067766228 2
+1
+LANG:10027 56 MS Shell Dlg 2,-1,13,5,75,0,0,0,0,0,Полужирный
+0 1
+LANG:10027 12 Подача
+1
+LANG:10027 56 MS Shell Dlg 2,-1,13,5,75,0,0,0,0,0,Полужирный
+0 1
+LANG:10027 10 азота
+2 78
+"PRIMITIVE_TEXT74"
+""
+1 1951.8938248705 116.8868067766228 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+77 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 1.187686590935527 0 1 -2288.238122728551 473.1131932233772 0 E 1951.8938248705 116.8868067766228 2074 150
+0 2 2 "0s" 0 0 0 192 0 0  1951.8938248705 116.8868067766228 2
+1
+LANG:10027 56 MS Shell Dlg 2,-1,13,5,75,0,0,0,0,0,Полужирный
+0 1
+LANG:10027 31 Теплоноситель От
+1
+LANG:10027 56 MS Shell Dlg 2,-1,13,5,75,0,0,0,0,0,Полужирный
+0 1
+LANG:10027 18 ЕД-4/1, ЕД-4/2
+2 80
+"PRIMITIVE_TEXT75"
+""
+1 1951.8938248705 116.8868067766228 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+79 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 1.187686590935527 0 1 -2288.238122728551 573.1131932233772 0 E 1951.8938248705 116.8868067766228 2074 150
+0 2 2 "0s" 0 0 0 192 0 0  1951.8938248705 116.8868067766228 2
+1
+LANG:10027 56 MS Shell Dlg 2,-1,13,5,75,0,0,0,0,0,Полужирный
+0 1
+LANG:10027 31 Теплоноситель От
+1
+LANG:10027 56 MS Shell Dlg 2,-1,13,5,75,0,0,0,0,0,Полужирный
+0 1
+LANG:10027 10 И-1, И-2
+2 81
+"PRIMITIVE_TEXT76"
+""
+1 1951.8938248705 116.8868067766228 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+80 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 1.187686590935527 0 1 -2288.238122728551 703.1131932233772 0 E 1951.8938248705 116.8868067766228 2117 150
+0 2 2 "0s" 0 0 0 192 0 0  1951.8938248705 116.8868067766228 2
+1
+LANG:10027 56 MS Shell Dlg 2,-1,13,5,75,0,0,0,0,0,Полужирный
+0 1
+LANG:10027 40 Теплоноситель От ЕД-1, 
+1
+LANG:10027 56 MS Shell Dlg 2,-1,13,5,75,0,0,0,0,0,Полужирный
+0 1
+LANG:10027 14 ЕД-2, ЕД-3
+7 87
+"ELLIPSE60"
+""
+1 499.6776193833126 501.4627476173665 E E E 1 E 1 E N {0,0,0} E N "STD_grey_light" E E
+ E E
+86 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 96.60025132931752 0 1.043300382708388 -47679.62378586406 -201.947872415189 1 E 499.6776193833126 501.4627476173665 0.32238062 71.462748
+7 88
+"ELLIPSE61"
+""
+1 499.6776193833126 501.4627476173665 E E E 1 E 1 E N {0,0,0} E N "STD_grey_light" E E
+ E E
+87 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 96.60025132931752 0 1.043300382708388 -47933.08369721407 -201.947872415189 1 E 499.6776193833126 501.4627476173665 0.32238062 71.462748
+6 89
+"RECTANGLE43"
+""
+1 320 160 E E E 1 E 1 E N {0,0,0} E N "STD_grey_light" E E
+ E E
+88 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+E E 0 1 3 2 1 E 0.817612617258121 0 0.8284123548732373 74.2638813263584 114.1253153696998 1 E 320 160 630 340
+7 90
+"ELLIPSE62"
+""
+1 499.6776193833126 501.4627476173665 E E E 1 E 1 E N "STD_grey_light" E N "STD_grey_light" E E
+ E E
+89 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 66.33403899272719 0 1.043300382708388 -32809.73476911679 -201.947872415189 1 E 499.6776193833126 501.4627476173665 0.32238062 71.462748
+7 91
+"ELLIPSE63"
+""
+1 499.6776193833126 501.4627476173665 E E E 1 E 1 E N "STD_grey_light" E N "STD_grey_light" E E
+ E E
+90 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 66.33403899272719 0 1.043300382708388 -32556.27485776677 -201.947872415189 1 E 499.6776193833126 501.4627476173665 0.32238062 71.462748
+2 92
+"PRIMITIVE_TEXT17"
+""
+1 569.4630617434607 583.3330726201144 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+91 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 0.9502066343083511 0 1.166112135353093 -207.7373649990388 -413.8894908864335 0 E 569.4630617434607 583.3330726201144 592 598
+0 2 2 "0s" 0 0 0 192 0 0  569.4630617434607 583.3330726201144 1
+1
+LANG:10027 56 MS Shell Dlg 2,-1,13,5,75,0,0,0,0,0,Полужирный
+0 1
+LANG:10027 4 Е-1
+2 133
+"PRIMITIVE_TEXT78"
+""
+1 1951.8938248705 116.8868067766228 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+132 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 1.187686590935527 0 1 -558.2381227285512 -96.88680677662281 0 E 1951.8938248705 116.8868067766228 2066 132
+0 2 2 "0s" 0 0 0 192 0 0  1951.8938248705 116.8868067766228 1
+1
+LANG:10027 56 MS Shell Dlg 2,-1,13,5,75,0,0,0,0,0,Полужирный
+0 1
+LANG:10027 28 Газ в атмосферу
+7 144
+"ELLIPSE201"
+""
+1 135 905 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+143 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 0.6666666666666675 0 0.666666666666668 248.3130998275058 -382.2416344535141 1 E 135 905 15 15
+14 145
+"TEXT_FIELD22"
+""
+1 303.5695351276245 190.5442684455917 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+144 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+1
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  301.5695351276244 189.5442684455917 375.5695351276244 213.5442684455916
+3 "0s" 0 0 0 0 0 -1  E E E
+13 146
+"PUSH_BUTTON30"
+"BORDERLESS_BTN"
+1 298.6501913902385 176.6627317314248 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+145 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  296.6501913902385 174.6627317314248 380.6501913902374 248.6627317314247
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+7 147
+"ELLIPSE202"
+""
+1 135 905 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+146 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 0.6666666666666675 0 0.666666666666668 340.0960455639399 -382.8813978103174 1 E 135 905 15 15
+2 148
+"PRIMITIVE_TEXT72"
+""
+1 115.1 878.279526713605 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+147 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 0.9999999999999999 0 1 311.0460455639399 -665.187827833785 0 E 115.1 878.279526713605 122 893
+0 2 2 "0s" 0 0 0 192 0 0  115.1 878.279526713605 1
+1
+LANG:10027 50 MS Shell Dlg 2,-1,13,5,50,0,0,0,0,0,Обычный
+0 1
+LANG:10027 1 -
+14 149
+"TEXT_FIELD23"
+""
+1 395.3524808640584 189.9045050887886 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+148 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+1
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  393.3524808640584 188.9045050887886 467.3524808640584 212.9045050887884
+3 "0s" 0 0 0 0 0 -1  E E E
+13 150
+"PUSH_BUTTON31"
+"BORDERLESS_BTN"
+1 390.4331371266726 176.0229683746218 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+149 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  388.4331371266724 174.0229683746217 472.4331371266724 248.0229683746216
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+7 154
+"ELLIPSE208"
+""
+1 135 905 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+153 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 0.6666666666666675 0 0.666666666666668 429.9999999999999 -163.3333333333345 1 E 135 905 15 15
+2 155
+"PRIMITIVE_TEXT79"
+""
+1 115.1 878.279526713605 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+154 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 0.9999999999999999 0 1 400.9499999999999 -445.6397633568025 0 E 115.1 878.279526713605 122 893
+0 2 2 "0s" 0 0 0 192 0 0  115.1 878.279526713605 1
+1
+LANG:10027 50 MS Shell Dlg 2,-1,13,5,50,0,0,0,0,0,Обычный
+0 1
+LANG:10027 1 -
+14 156
+"TEXT_FIELD27"
+""
+1 485.2564353001189 409.4525695657713 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+155 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+1
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  483.2564353001188 408.4525695657712 557.2564353001189 432.4525695657711
+3 "0s" 0 0 0 0 0 -1  E E E
+13 157
+"PUSH_BUTTON39"
+"BORDERLESS_BTN"
+1 480.3370915627331 395.5710328516045 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+156 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  478.337091562733 393.5710328516043 562.337091562733 467.5710328516041
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+7 158
+"ELLIPSE209"
+""
+1 135 905 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+157 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 0.6666666666666675 0 0.666666666666668 509.9999999999999 -163.3333333333346 1 E 135 905 15 15
+2 159
+"PRIMITIVE_TEXT80"
+""
+1 115.1 878.279526713605 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+158 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 0.9999999999999999 0 1 480.9499999999999 -445.6397633568026 0 E 115.1 878.279526713605 122 893
+0 2 2 "0s" 0 0 0 192 0 0  115.1 878.279526713605 1
+1
+LANG:10027 50 MS Shell Dlg 2,-1,13,5,50,0,0,0,0,0,Обычный
+0 1
+LANG:10027 1 -
+14 160
+"TEXT_FIELD28"
+""
+1 565.2564353001189 409.4525695657713 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+159 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+1
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  563.2564353001187 408.4525695657712 637.2564353001187 432.4525695657711
+3 "0s" 0 0 0 0 0 -1  E E E
+13 161
+"PUSH_BUTTON40"
+"BORDERLESS_BTN"
+1 560.3370915627331 395.5710328516045 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+160 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  558.3370915627329 393.5710328516041 642.3370915627328 467.5710328516041
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+6 176
+"RECTANGLE141"
+""
+1 830 430 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+175 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+E E 0 3 3 2 1 E 0.7071067811865476 -0.7071067811865476 0.7071067811865476 0.7071067811865476 -200.8645382138663 792.8427124746177 1 E 830 430 850 450
+4 177
+"LINE129"
+""
+1 704.2321417049146 524.1421356237292 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+176 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 3 2 1 E  704.2321417049145 524.142135623729 704.2321417049145 495.8578643762672
+7 183
+"ELLIPSE212"
+""
+1 135 905 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+182 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 0.6666666666666675 0 0.666666666666668 499.9999999999999 86.66666666666549 1 E 135 905 15 15
+14 184
+"TEXT_FIELD29"
+""
+1 555.2564353001189 659.4525695657711 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+183 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+1
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  553.2564353001189 658.452569565771 627.2564353001189 682.452569565771
+3 "0s" 0 0 0 0 0 -1  E E E
+7 199
+"ELLIPSE204"
+""
+1 135 905 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+198 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 0.6666666666666675 0 0.666666666666668 800.0412535940229 -91.86938874302274 1 E 135 905 15 15
+2 200
+"PRIMITIVE_TEXT81"
+""
+1 40 80 E E E 1 E 1 E N "sd_grey_darken" E N "_Window" E E
+ E E
+199 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 0.6001096656084114 0 0.6112562119572595 864.1541387758716 456.4871347798809 0 E 40 80 60 100
+0 2 2 "0s" 0 0 0 64 0 0  40 80 1
+1
+LANG:10027 47 Arial,-1,10,5,75,0,0,0,0,0,Полужирный
+0 1
+LANG:10027 1 -
+10 201
+"POLYGON357"
+""
+1 224 156 E E E 1 E 1 E N "sd_grey_dark" E N "sd_grey_main" E E
+ E E
+200 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 3 2 1 E -0.6208030877383327 0.0001372103715923076 -0.0001354277513020378 -0.6357112881129973 1019.123716539293 617.3850908192414 1 E 4 224 156
+224 177.3333333333333
+242 167.3333333333333
+243.3333333333333 167.3333333333333
+ 1
+13 202
+"PUSH_BUTTON35"
+"BORDERLESS_BTN"
+1 850.0412535940226 481.4639445903118 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+201 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  848.0412535940225 479.4639445903115 924.8343406961332 545.2866472539633
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+7 203
+"ELLIPSE215"
+""
+1 135 905 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+202 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 0.6666666666666675 0 0.666666666666668 799.9160580146435 -30.08847219380544 1 E 135 905 15 15
+2 204
+"PRIMITIVE_TEXT82"
+""
+1 40 80 E E E 1 E 1 E N "sd_grey_darken" E N "_Window" E E
+ E E
+203 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 0.6001096656084114 0 0.6112562119572595 864.0289431964922 518.2680513290982 0 E 40 80 60 100
+0 2 2 "0s" 0 0 0 64 0 0  40 80 1
+1
+LANG:10027 47 Arial,-1,10,5,75,0,0,0,0,0,Полужирный
+0 1
+LANG:10027 1 -
+10 205
+"POLYGON411"
+""
+1 224 156 E E E 1 E 1 E N "sd_grey_dark" E N "sd_grey_main" E E
+ E E
+204 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 3 2 1 E -0.6208030877383327 0.0001372103715923076 -0.0001354277513020378 -0.6357112881129973 1018.998520959914 679.1660073684591 1 E 4 224 156
+224 177.3333333333333
+242 167.3333333333333
+243.3333333333333 167.3333333333333
+ 1
+13 206
+"PUSH_BUTTON44"
+"BORDERLESS_BTN"
+1 849.916058014643 543.2448611395291 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+205 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  847.9160580146429 541.2448611395289 924.7091451167538 607.0675638031807
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+7 207
+"ELLIPSE216"
+""
+1 135 905 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+206 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 0.6666666666666675 0 0.666666666666668 799.8534602249538 31.67155129819452 1 E 135 905 15 15
+2 208
+"PRIMITIVE_TEXT83"
+""
+1 40 80 E E E 1 E 1 E N "sd_grey_darken" E N "_Window" E E
+ E E
+207 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 0.6001096656084114 0 0.6112562119572595 863.9663454068025 580.0280748210982 0 E 40 80 60 100
+0 2 2 "0s" 0 0 0 64 0 0  40 80 1
+1
+LANG:10027 47 Arial,-1,10,5,75,0,0,0,0,0,Полужирный
+0 1
+LANG:10027 1 -
+10 209
+"POLYGON412"
+""
+1 224 156 E E E 1 E 1 E N "sd_grey_dark" E N "sd_grey_main" E E
+ E E
+208 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 3 2 1 E -0.6208030877383327 0.0001372103715923076 -0.0001354277513020378 -0.6357112881129973 1018.935923170225 740.9260308604587 1 E 4 224 156
+224 177.3333333333333
+242 167.3333333333333
+243.3333333333333 167.3333333333333
+ 1
+13 210
+"PUSH_BUTTON45"
+"BORDERLESS_BTN"
+1 849.8534602249534 605.004884631529 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+209 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  847.8534602249531 603.0048846315287 924.6465473270639 668.8275872951806
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+7 211
+"ELLIPSE217"
+""
+1 135 905 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+210 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 0.6666666666666675 0 0.666666666666668 630.0900060811839 -3.333333333334679 1 E 135 905 15 15
+2 212
+"PRIMITIVE_TEXT84"
+""
+1 115.1 878.279526713605 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+211 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 0.9999999999999999 0 1 601.0400060811839 -285.6397633568027 0 E 115.1 878.279526713605 122 893
+0 2 2 "0s" 0 0 0 192 0 0  115.1 878.279526713605 1
+1
+LANG:10027 50 MS Shell Dlg 2,-1,13,5,50,0,0,0,0,0,Обычный
+0 1
+LANG:10027 1 -
+14 213
+"TEXT_FIELD31"
+""
+1 685.346441381303 569.4525695657712 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+212 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+1
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  683.346441381303 568.452569565771 757.3464413813028 592.452569565771
+3 "0s" 0 0 0 0 0 -1  E E E
+13 214
+"PUSH_BUTTON46"
+"BORDERLESS_BTN"
+1 680.4270976439171 555.5710328516044 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+213 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  678.4270976439169 553.5710328516041 762.4270976439169 627.5710328516041
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+7 215
+"ELLIPSE218"
+""
+1 135 905 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+214 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 0.6666666666666675 0 0.666666666666668 710.0900060811839 -3.333333333334735 1 E 135 905 15 15
+2 216
+"PRIMITIVE_TEXT85"
+""
+1 115.1 878.279526713605 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+215 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 0.9999999999999999 0 1 681.0400060811839 -285.6397633568027 0 E 115.1 878.279526713605 122 893
+0 2 2 "0s" 0 0 0 192 0 0  115.1 878.279526713605 1
+1
+LANG:10027 50 MS Shell Dlg 2,-1,13,5,50,0,0,0,0,0,Обычный
+0 1
+LANG:10027 1 -
+14 217
+"TEXT_FIELD32"
+""
+1 765.346441381303 569.4525695657712 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+216 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+1
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  763.3464413813028 568.452569565771 837.3464413813028 592.452569565771
+3 "0s" 0 0 0 0 0 -1  E E E
+13 218
+"PUSH_BUTTON47"
+"BORDERLESS_BTN"
+1 760.4270976439171 555.5710328516044 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+217 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  758.4270976439169 553.5710328516041 842.4270976439169 627.5710328516041
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+7 219
+"ELLIPSE219"
+""
+1 135 905 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+218 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 0.6666666666666675 0 0.666666666666668 630.090006081184 63.18840579710019 1 E 135 905 15 15
+2 220
+"PRIMITIVE_TEXT86"
+""
+1 115.1 878.279526713605 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+219 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 0.9999999999999999 0 1 601.0400060811841 -219.1180242263678 0 E 115.1 878.279526713605 122 893
+0 2 2 "0s" 0 0 0 192 0 0  115.1 878.279526713605 1
+1
+LANG:10027 50 MS Shell Dlg 2,-1,13,5,50,0,0,0,0,0,Обычный
+0 1
+LANG:10027 1 -
+14 221
+"TEXT_FIELD33"
+""
+1 685.346441381303 635.974308696206 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+220 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+1
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  683.346441381303 634.974308696206 757.3464413813028 658.9743086962056
+3 "0s" 0 0 0 0 0 -1  E E E
+13 222
+"PUSH_BUTTON48"
+"BORDERLESS_BTN"
+1 680.4270976439171 622.0927719820393 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+221 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  678.4270976439169 620.092771982039 762.427097643917 694.0927719820388
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+7 223
+"ELLIPSE220"
+""
+1 135 905 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+222 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 0.6666666666666675 0 0.666666666666668 710.090006081184 63.18840579710012 1 E 135 905 15 15
+2 224
+"PRIMITIVE_TEXT87"
+""
+1 115.1 878.279526713605 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+223 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 0.9999999999999999 0 1 681.0400060811841 -219.1180242263679 0 E 115.1 878.279526713605 122 893
+0 2 2 "0s" 0 0 0 192 0 0  115.1 878.279526713605 1
+1
+LANG:10027 50 MS Shell Dlg 2,-1,13,5,50,0,0,0,0,0,Обычный
+0 1
+LANG:10027 1 -
+14 225
+"TEXT_FIELD34"
+""
+1 765.346441381303 635.974308696206 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+224 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+1
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  763.3464413813028 634.974308696206 837.3464413813028 658.9743086962056
+3 "0s" 0 0 0 0 0 -1  E E E
+13 226
+"PUSH_BUTTON49"
+"BORDERLESS_BTN"
+1 760.4270976439171 622.0927719820393 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+225 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  758.427097643917 620.092771982039 842.427097643917 694.0927719820388
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+7 227
+"ELLIPSE221"
+""
+1 135 905 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+226 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 0.6666666666666675 0 0.666666666666668 349.9999999999999 -163.3333333333345 1 E 135 905 15 15
+2 228
+"PRIMITIVE_TEXT88"
+""
+1 115.1 878.279526713605 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+227 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 0.9999999999999999 0 1 320.9499999999999 -445.6397633568025 0 E 115.1 878.279526713605 122 893
+0 2 2 "0s" 0 0 0 192 0 0  115.1 878.279526713605 1
+1
+LANG:10027 50 MS Shell Dlg 2,-1,13,5,50,0,0,0,0,0,Обычный
+0 1
+LANG:10027 1 -
+14 229
+"TEXT_FIELD35"
+""
+1 405.2564353001188 409.4525695657713 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+228 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+1
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  403.2564353001188 408.4525695657712 477.2564353001187 432.4525695657711
+3 "0s" 0 0 0 0 0 -1  E E E
+13 230
+"PUSH_BUTTON50"
+"BORDERLESS_BTN"
+1 400.337091562733 395.5710328516045 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+229 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  398.3370915627329 393.5710328516043 482.3370915627329 467.5710328516041
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+6 264
+"RECTANGLE144"
+""
+1 830 430 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+263 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+E E 0 3 3 2 1 E 0.7071067811865476 -0.7071067811865476 0.7071067811865476 0.7071067811865476 79.04545570494972 792.842712474619 1 E 830 430 850 450
+4 265
+"LINE136"
+""
+1 984.1421356237304 524.1421356237302 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+264 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 3 2 1 E  984.1421356237302 524.1421356237302 984.1421356237302 495.8578643762683
+7 276
+"ELLIPSE229"
+""
+1 135 905 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+275 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 0.6666666666666675 0 0.666666666666668 1070.041253594022 -93.33333333333502 1 E 135 905 15 15
+2 277
+"PRIMITIVE_TEXT93"
+""
+1 40 80 E E E 1 E 1 E N "sd_grey_darken" E N "_Window" E E
+ E E
+276 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 0.6001096656084114 0 0.6112562119572595 1134.154138775871 455.0231901895686 0 E 40 80 60 100
+0 2 2 "0s" 0 0 0 64 0 0  40 80 1
+1
+LANG:10027 47 Arial,-1,10,5,75,0,0,0,0,0,Полужирный
+0 1
+LANG:10027 1 -
+10 278
+"POLYGON419"
+""
+1 224 156 E E E 1 E 1 E N "sd_grey_dark" E N "sd_grey_main" E E
+ E E
+277 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 3 2 1 E -0.6208030877383327 0.0001372103715923076 -0.0001354277513020378 -0.6357112881129973 1289.123716539293 615.9211462289294 1 E 4 224 156
+224 177.3333333333333
+242 167.3333333333333
+243.3333333333333 167.3333333333333
+ 1
+13 279
+"PUSH_BUTTON56"
+"BORDERLESS_BTN"
+1 1120.041253594022 479.9999999999995 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+278 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1118.041253594022 477.9999999999994 1194.834340696133 543.8227026636512
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+7 280
+"ELLIPSE230"
+""
+1 135 905 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+279 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 0.6666666666666675 0 0.666666666666668 1069.916058014643 -31.55241678411772 1 E 135 905 15 15
+2 281
+"PRIMITIVE_TEXT94"
+""
+1 40 80 E E E 1 E 1 E N "sd_grey_darken" E N "_Window" E E
+ E E
+280 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 0.6001096656084114 0 0.6112562119572595 1134.028943196492 516.8041067387861 0 E 40 80 60 100
+0 2 2 "0s" 0 0 0 64 0 0  40 80 1
+1
+LANG:10027 47 Arial,-1,10,5,75,0,0,0,0,0,Полужирный
+0 1
+LANG:10027 1 -
+10 282
+"POLYGON420"
+""
+1 224 156 E E E 1 E 1 E N "sd_grey_dark" E N "sd_grey_main" E E
+ E E
+281 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 3 2 1 E -0.6208030877383327 0.0001372103715923076 -0.0001354277513020378 -0.6357112881129973 1288.998520959913 677.702062778147 1 E 4 224 156
+224 177.3333333333333
+242 167.3333333333333
+243.3333333333333 167.3333333333333
+ 1
+13 283
+"PUSH_BUTTON57"
+"BORDERLESS_BTN"
+1 1119.916058014643 541.7809165492168 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+282 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1117.916058014643 539.7809165492167 1194.709145116753 605.6036192128684
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+7 284
+"ELLIPSE231"
+""
+1 135 905 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+283 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 0.6666666666666675 0 0.666666666666668 1069.853460224953 30.20760670788223 1 E 135 905 15 15
+2 285
+"PRIMITIVE_TEXT95"
+""
+1 40 80 E E E 1 E 1 E N "sd_grey_darken" E N "_Window" E E
+ E E
+284 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 0.6001096656084114 0 0.6112562119572595 1133.966345406802 578.5641302307862 0 E 40 80 60 100
+0 2 2 "0s" 0 0 0 64 0 0  40 80 1
+1
+LANG:10027 47 Arial,-1,10,5,75,0,0,0,0,0,Полужирный
+0 1
+LANG:10027 1 -
+10 286
+"POLYGON421"
+""
+1 224 156 E E E 1 E 1 E N "sd_grey_dark" E N "sd_grey_main" E E
+ E E
+285 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 3 2 1 E -0.6208030877383327 0.0001372103715923076 -0.0001354277513020378 -0.6357112881129973 1288.935923170224 739.4620862701466 1 E 4 224 156
+224 177.3333333333333
+242 167.3333333333333
+243.3333333333333 167.3333333333333
+ 1
+13 287
+"PUSH_BUTTON58"
+"BORDERLESS_BTN"
+1 1119.853460224953 603.5409400412167 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+286 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1117.853460224953 601.5409400412166 1194.646547327064 667.3636427048683
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+7 288
+"ELLIPSE232"
+""
+1 135 905 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+287 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 0.6666666666666675 0 0.666666666666668 900.0412535940222 -3.333333333334906 1 E 135 905 15 15
+2 289
+"PRIMITIVE_TEXT96"
+""
+1 115.1 878.279526713605 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+288 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 0.9999999999999999 0 1 870.9912535940223 -285.6397633568029 0 E 115.1 878.279526713605 122 893
+0 2 2 "0s" 0 0 0 192 0 0  115.1 878.279526713605 1
+1
+LANG:10027 50 MS Shell Dlg 2,-1,13,5,50,0,0,0,0,0,Обычный
+0 1
+LANG:10027 1 -
+14 290
+"TEXT_FIELD40"
+""
+1 965.2564353001192 569.4525695657711 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+289 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+1
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  963.2564353001188 568.452569565771 1037.256435300119 592.4525695657709
+3 "0s" 0 0 0 0 0 -1  E E E
+13 291
+"PUSH_BUTTON59"
+"BORDERLESS_BTN"
+1 960.3370915627331 555.5710328516043 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+290 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  958.3370915627331 553.5710328516041 1042.337091562733 627.5710328516041
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+7 292
+"ELLIPSE233"
+""
+1 135 905 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+291 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 0.6666666666666675 0 0.666666666666668 980.0412535940225 -3.333333333334963 1 E 135 905 15 15
+2 293
+"PRIMITIVE_TEXT97"
+""
+1 115.1 878.279526713605 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+292 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 0.9999999999999999 0 1 950.9912535940225 -285.639763356803 0 E 115.1 878.279526713605 122 893
+0 2 2 "0s" 0 0 0 192 0 0  115.1 878.279526713605 1
+1
+LANG:10027 50 MS Shell Dlg 2,-1,13,5,50,0,0,0,0,0,Обычный
+0 1
+LANG:10027 1 -
+14 294
+"TEXT_FIELD41"
+""
+1 1035.297688894142 569.452569565771 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+293 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+1
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1033.297688894141 568.4525695657709 1107.297688894141 592.4525695657708
+3 "0s" 0 0 0 0 0 -1  E E E
+13 295
+"PUSH_BUTTON60"
+"BORDERLESS_BTN"
+1 1030.378345156756 555.5710328516042 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+294 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1028.378345156756 553.5710328516039 1112.378345156756 627.5710328516039
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+7 296
+"ELLIPSE234"
+""
+1 135 905 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+295 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 0.6666666666666675 0 0.666666666666668 900.0412535940225 63.18840579709996 1 E 135 905 15 15
+2 297
+"PRIMITIVE_TEXT98"
+""
+1 115.1 878.279526713605 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+296 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 0.9999999999999999 0 1 870.9912535940225 -219.118024226368 0 E 115.1 878.279526713605 122 893
+0 2 2 "0s" 0 0 0 192 0 0  115.1 878.279526713605 1
+1
+LANG:10027 50 MS Shell Dlg 2,-1,13,5,50,0,0,0,0,0,Обычный
+0 1
+LANG:10027 1 -
+14 298
+"TEXT_FIELD42"
+""
+1 965.2564353001192 635.9743086962059 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+297 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+1
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  963.2564353001188 634.9743086962059 1037.256435300119 658.9743086962055
+3 "0s" 0 0 0 0 0 -1  E E E
+13 299
+"PUSH_BUTTON61"
+"BORDERLESS_BTN"
+1 960.3370915627331 622.0927719820392 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+298 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  958.3370915627331 620.0927719820389 1042.337091562733 694.0927719820388
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+7 300
+"ELLIPSE235"
+""
+1 135 905 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+299 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 0.6666666666666675 0 0.666666666666668 980.0412535940225 63.1884057970999 1 E 135 905 15 15
+2 301
+"PRIMITIVE_TEXT99"
+""
+1 115.1 878.279526713605 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+300 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 0.9999999999999999 0 1 950.9912535940225 -219.1180242263681 0 E 115.1 878.279526713605 122 893
+0 2 2 "0s" 0 0 0 192 0 0  115.1 878.279526713605 1
+1
+LANG:10027 50 MS Shell Dlg 2,-1,13,5,50,0,0,0,0,0,Обычный
+0 1
+LANG:10027 1 -
+14 302
+"TEXT_FIELD43"
+""
+1 1035.297688894142 635.9743086962058 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+301 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+1
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1033.297688894141 634.9743086962058 1107.297688894141 658.9743086962055
+3 "0s" 0 0 0 0 0 -1  E E E
+13 303
+"PUSH_BUTTON62"
+"BORDERLESS_BTN"
+1 1030.378345156756 622.092771982039 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+302 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1028.378345156756 620.0927719820388 1112.378345156756 694.0927719820388
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+6 337
+"RECTANGLE148"
+""
+1 830 430 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+336 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+E E 0 3 3 2 1 E 0.7071067811865476 -0.7071067811865476 0.7071067811865476 0.7071067811865476 369.0454557049497 792.8427124746197 1 E 830 430 850 450
+4 338
+"LINE146"
+""
+1 1274.142135623731 524.1421356237311 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+337 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 3 2 1 E  1274.142135623731 524.1421356237308 1274.142135623731 495.8578643762692
+7 341
+"ELLIPSE243"
+""
+1 135 905 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+340 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 0.6666666666666675 0 0.666666666666668 1369.951247512838 -91.86938874302228 1 E 135 905 15 15
+2 342
+"PRIMITIVE_TEXT104"
+""
+1 40 80 E E E 1 E 1 E N "sd_grey_darken" E N "_Window" E E
+ E E
+341 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 0.6001096656084114 0 0.6112562119572595 1434.064132694687 456.4871347798812 0 E 40 80 60 100
+0 2 2 "0s" 0 0 0 64 0 0  40 80 1
+1
+LANG:10027 47 Arial,-1,10,5,75,0,0,0,0,0,Полужирный
+0 1
+LANG:10027 1 -
+10 343
+"POLYGON428"
+""
+1 224 156 E E E 1 E 1 E N "sd_grey_dark" E N "sd_grey_main" E E
+ E E
+342 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 3 2 1 E -0.6208030877383327 0.0001372103715923076 -0.0001354277513020378 -0.6357112881129973 1589.033710458109 617.3850908192422 1 E 4 224 156
+224 177.3333333333333
+242 167.3333333333333
+243.3333333333333 167.3333333333333
+ 1
+13 344
+"PUSH_BUTTON64"
+"BORDERLESS_BTN"
+1 1419.951247512838 481.4639445903122 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+343 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1417.951247512837 479.4639445903122 1494.744334614948 545.2866472539638
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+7 345
+"ELLIPSE244"
+""
+1 135 905 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+344 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 0.6666666666666675 0 0.666666666666668 1369.826051933459 -30.08847219380499 1 E 135 905 15 15
+2 346
+"PRIMITIVE_TEXT105"
+""
+1 40 80 E E E 1 E 1 E N "sd_grey_darken" E N "_Window" E E
+ E E
+345 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 0.6001096656084114 0 0.6112562119572595 1433.938937115308 518.268051329099 0 E 40 80 60 100
+0 2 2 "0s" 0 0 0 64 0 0  40 80 1
+1
+LANG:10027 47 Arial,-1,10,5,75,0,0,0,0,0,Полужирный
+0 1
+LANG:10027 1 -
+10 347
+"POLYGON429"
+""
+1 224 156 E E E 1 E 1 E N "sd_grey_dark" E N "sd_grey_main" E E
+ E E
+346 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 3 2 1 E -0.6208030877383327 0.0001372103715923076 -0.0001354277513020378 -0.6357112881129973 1588.908514878729 679.1660073684599 1 E 4 224 156
+224 177.3333333333333
+242 167.3333333333333
+243.3333333333333 167.3333333333333
+ 1
+13 348
+"PUSH_BUTTON65"
+"BORDERLESS_BTN"
+1 1419.826051933459 543.2448611395295 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+347 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1417.826051933459 541.2448611395293 1494.619139035569 607.0675638031813
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+7 349
+"ELLIPSE245"
+""
+1 135 905 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+348 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 0.6666666666666675 0 0.666666666666668 1369.76345414377 31.67155129819497 1 E 135 905 15 15
+2 350
+"PRIMITIVE_TEXT106"
+""
+1 40 80 E E E 1 E 1 E N "sd_grey_darken" E N "_Window" E E
+ E E
+349 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 0.6001096656084114 0 0.6112562119572595 1433.876339325618 580.028074821099 0 E 40 80 60 100
+0 2 2 "0s" 0 0 0 64 0 0  40 80 1
+1
+LANG:10027 47 Arial,-1,10,5,75,0,0,0,0,0,Полужирный
+0 1
+LANG:10027 1 -
+10 351
+"POLYGON430"
+""
+1 224 156 E E E 1 E 1 E N "sd_grey_dark" E N "sd_grey_main" E E
+ E E
+350 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 3 2 1 E -0.6208030877383327 0.0001372103715923076 -0.0001354277513020378 -0.6357112881129973 1588.84591708904 740.9260308604595 1 E 4 224 156
+224 177.3333333333333
+242 167.3333333333333
+243.3333333333333 167.3333333333333
+ 1
+13 352
+"PUSH_BUTTON66"
+"BORDERLESS_BTN"
+1 1419.763454143769 605.0048846315295 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+351 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1417.763454143769 603.0048846315292 1494.55654124588 668.8275872951812
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+7 353
+"ELLIPSE246"
+""
+1 135 905 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+352 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 0.6666666666666675 0 0.666666666666668 1200 -3.333333333334451 1 E 135 905 15 15
+2 354
+"PRIMITIVE_TEXT107"
+""
+1 115.1 878.279526713605 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+353 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 0.9999999999999999 0 1 1170.95 -285.6397633568025 0 E 115.1 878.279526713605 122 893
+0 2 2 "0s" 0 0 0 192 0 0  115.1 878.279526713605 1
+1
+LANG:10027 50 MS Shell Dlg 2,-1,13,5,50,0,0,0,0,0,Обычный
+0 1
+LANG:10027 1 -
+14 355
+"TEXT_FIELD44"
+""
+1 1255.256435300119 569.4525695657715 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+354 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+1
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1253.256435300119 568.4525695657713 1327.256435300119 592.4525695657712
+3 "0s" 0 0 0 0 0 -1  E E E
+13 356
+"PUSH_BUTTON67"
+"BORDERLESS_BTN"
+1 1250.337091562733 555.5710328516046 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+355 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1248.337091562733 553.5710328516044 1332.337091562733 627.5710328516044
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+7 357
+"ELLIPSE247"
+""
+1 135 905 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+356 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 0.6666666666666675 0 0.666666666666668 1280 -3.333333333334508 1 E 135 905 15 15
+2 358
+"PRIMITIVE_TEXT108"
+""
+1 115.1 878.279526713605 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+357 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 0.9999999999999999 0 1 1250.95 -285.6397633568025 0 E 115.1 878.279526713605 122 893
+0 2 2 "0s" 0 0 0 192 0 0  115.1 878.279526713605 1
+1
+LANG:10027 50 MS Shell Dlg 2,-1,13,5,50,0,0,0,0,0,Обычный
+0 1
+LANG:10027 1 -
+14 359
+"TEXT_FIELD45"
+""
+1 1335.256435300119 569.4525695657715 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+358 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+1
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1333.256435300119 568.4525695657713 1407.256435300119 592.4525695657712
+3 "0s" 0 0 0 0 0 -1  E E E
+13 360
+"PUSH_BUTTON68"
+"BORDERLESS_BTN"
+1 1330.337091562733 555.5710328516046 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+359 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1328.337091562733 553.5710328516044 1412.337091562733 627.5710328516044
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+7 361
+"ELLIPSE248"
+""
+1 135 905 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+360 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 0.6666666666666675 0 0.666666666666668 1200 63.18840579710042 1 E 135 905 15 15
+2 362
+"PRIMITIVE_TEXT109"
+""
+1 115.1 878.279526713605 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+361 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 0.9999999999999999 0 1 1170.95 -219.1180242263675 0 E 115.1 878.279526713605 122 893
+0 2 2 "0s" 0 0 0 192 0 0  115.1 878.279526713605 1
+1
+LANG:10027 50 MS Shell Dlg 2,-1,13,5,50,0,0,0,0,0,Обычный
+0 1
+LANG:10027 1 -
+14 363
+"TEXT_FIELD46"
+""
+1 1255.256435300119 635.9743086962062 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+362 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+1
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1253.256435300119 634.9743086962062 1327.256435300119 658.974308696206
+3 "0s" 0 0 0 0 0 -1  E E E
+13 364
+"PUSH_BUTTON69"
+"BORDERLESS_BTN"
+1 1250.337091562733 622.0927719820395 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+363 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1248.337091562733 620.0927719820393 1332.337091562733 694.0927719820393
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+7 365
+"ELLIPSE249"
+""
+1 135 905 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+364 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 0.6666666666666675 0 0.666666666666668 1280 63.18840579710035 1 E 135 905 15 15
+2 366
+"PRIMITIVE_TEXT110"
+""
+1 115.1 878.279526713605 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+365 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 0.9999999999999999 0 1 1250.95 -219.1180242263677 0 E 115.1 878.279526713605 122 893
+0 2 2 "0s" 0 0 0 192 0 0  115.1 878.279526713605 1
+1
+LANG:10027 50 MS Shell Dlg 2,-1,13,5,50,0,0,0,0,0,Обычный
+0 1
+LANG:10027 1 -
+14 367
+"TEXT_FIELD47"
+""
+1 1335.256435300119 635.9743086962062 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+366 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+1
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1333.256435300119 634.9743086962062 1407.256435300119 658.974308696206
+3 "0s" 0 0 0 0 0 -1  E E E
+13 368
+"PUSH_BUTTON70"
+"BORDERLESS_BTN"
+1 1330.337091562733 622.0927719820395 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+367 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1328.337091562733 620.0927719820393 1412.337091562733 694.0927719820393
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+7 449
+"ELLIPSE265"
+""
+1 135 905 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+448 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 0.6666666666666675 0 0.666666666666668 1090 -313.3333333333345 1 E 135 905 15 15
+2 450
+"PRIMITIVE_TEXT122"
+""
+1 115.1 878.279526713605 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+449 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 0.9999999999999999 0 1 1060.95 -595.6397633568022 0 E 115.1 878.279526713605 122 893
+0 2 2 "0s" 0 0 0 192 0 0  115.1 878.279526713605 1
+1
+LANG:10027 50 MS Shell Dlg 2,-1,13,5,50,0,0,0,0,0,Обычный
+0 1
+LANG:10027 1 -
+14 451
+"TEXT_FIELD56"
+""
+1 1145.256435300119 259.4525695657713 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+450 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+1
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1143.256435300119 258.4525695657713 1217.256435300118 282.4525695657711
+3 "0s" 0 0 0 0 0 -1  E E E
+13 452
+"PUSH_BUTTON84"
+"BORDERLESS_BTN"
+1 1140 250 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+451 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1138 247.9999999999999 1222 321.9999999999997
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+7 453
+"ELLIPSE266"
+""
+1 135 905 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+452 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 0.6666666666666675 0 0.666666666666668 1090 -246.8115942028997 1 E 135 905 15 15
+2 454
+"PRIMITIVE_TEXT123"
+""
+1 115.1 878.279526713605 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+453 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 0.9999999999999999 0 1 1060.95 -529.1180242263672 0 E 115.1 878.279526713605 122 893
+0 2 2 "0s" 0 0 0 192 0 0  115.1 878.279526713605 1
+1
+LANG:10027 50 MS Shell Dlg 2,-1,13,5,50,0,0,0,0,0,Обычный
+0 1
+LANG:10027 1 -
+14 455
+"TEXT_FIELD57"
+""
+1 1145.256435300119 325.9743086962062 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+454 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+1
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1143.256435300119 324.9743086962062 1217.256435300118 348.974308696206
+3 "0s" 0 0 0 0 0 -1  E E E
+13 456
+"PUSH_BUTTON85"
+"BORDERLESS_BTN"
+1 1140 310 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+455 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1138 307.9999999999999 1222 381.9999999999997
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+7 457
+"ELLIPSE267"
+""
+1 135 905 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+456 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 0.6666666666666675 0 0.666666666666668 1369.662908437269 -308.9043661849394 1 E 135 905 15 15
+2 458
+"PRIMITIVE_TEXT124"
+""
+1 115.1 878.279526713605 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+457 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 0.9999999999999999 0 1 1340.61290843727 -591.2107962084074 0 E 115.1 878.279526713605 122 893
+0 2 2 "0s" 0 0 0 192 0 0  115.1 878.279526713605 1
+1
+LANG:10027 50 MS Shell Dlg 2,-1,13,5,50,0,0,0,0,0,Обычный
+0 1
+LANG:10027 1 -
+14 459
+"TEXT_FIELD58"
+""
+1 1424.919343737389 263.8815367141664 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+458 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+1
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1422.919343737388 262.8815367141664 1496.919343737388 286.8815367141663
+3 "0s" 0 0 0 0 0 -1  E E E
+13 460
+"PUSH_BUTTON86"
+"BORDERLESS_BTN"
+1 1420.000000000003 249.9999999999997 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+459 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1418.000000000002 247.9999999999995 1502.000000000002 321.9999999999994
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+7 461
+"ELLIPSE268"
+""
+1 135 905 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+460 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 0.6666666666666675 0 0.666666666666668 1369.66290843727 -242.3826270545046 1 E 135 905 15 15
+2 462
+"PRIMITIVE_TEXT125"
+""
+1 115.1 878.279526713605 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+461 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 0.9999999999999999 0 1 1340.61290843727 -524.6890570779726 0 E 115.1 878.279526713605 122 893
+0 2 2 "0s" 0 0 0 192 0 0  115.1 878.279526713605 1
+1
+LANG:10027 50 MS Shell Dlg 2,-1,13,5,50,0,0,0,0,0,Обычный
+0 1
+LANG:10027 1 -
+14 463
+"TEXT_FIELD59"
+""
+1 1424.919343737389 330.4032758446014 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+462 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+1
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1422.919343737389 329.4032758446014 1496.919343737389 353.4032758446011
+3 "0s" 0 0 0 0 0 -1  E E E
+13 464
+"PUSH_BUTTON87"
+"BORDERLESS_BTN"
+1 1420.000000000003 316.5217391304346 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+463 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1418.000000000003 314.5217391304345 1502.000000000003 388.5217391304344
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+7 465
+"ELLIPSE269"
+""
+1 135 905 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+464 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 0.6666666666666675 0 0.666666666666668 1170 -133.3333333333345 1 E 135 905 15 15
+2 466
+"PRIMITIVE_TEXT126"
+""
+1 115.1 878.279526713605 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+465 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 0.9999999999999999 0 1 1140.95 -415.6397633568025 0 E 115.1 878.279526713605 122 893
+0 2 2 "0s" 0 0 0 192 0 0  115.1 878.279526713605 1
+1
+LANG:10027 50 MS Shell Dlg 2,-1,13,5,50,0,0,0,0,0,Обычный
+0 1
+LANG:10027 1 -
+14 467
+"TEXT_FIELD60"
+""
+1 1225.256435300119 439.4525695657715 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+466 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+1
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1223.256435300119 438.4525695657713 1297.256435300119 462.4525695657711
+3 "0s" 0 0 0 0 0 -1  E E E
+13 468
+"PUSH_BUTTON88"
+"BORDERLESS_BTN"
+1 1220.337091562733 425.5710328516047 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+467 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1218.337091562733 423.5710328516046 1302.337091562733 497.5710328516043
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+7 469
+"ELLIPSE270"
+""
+1 135 905 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+468 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 0.6666666666666675 0 0.666666666666668 1500 146.6666666666648 1 E 135 905 15 15
+2 470
+"PRIMITIVE_TEXT127"
+""
+1 115.1 878.279526713605 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+469 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 0.9999999999999999 0 1 1470.95 -135.6397633568032 0 E 115.1 878.279526713605 122 893
+0 2 2 "0s" 0 0 0 192 0 0  115.1 878.279526713605 1
+1
+LANG:10027 50 MS Shell Dlg 2,-1,13,5,50,0,0,0,0,0,Обычный
+0 1
+LANG:10027 1 -
+14 471
+"TEXT_FIELD61"
+""
+1 1555.256435300119 719.4525695657705 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+470 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+1
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1553.256435300119 718.4525695657701 1627.256435300119 742.4525695657701
+3 "0s" 0 0 0 0 0 -1  E E E
+13 472
+"PUSH_BUTTON89"
+"BORDERLESS_BTN"
+1 1550.337091562733 705.5710328516037 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+471 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1548.337091562733 703.5710328516035 1632.337091562733 777.5710328516034
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+7 473
+"ELLIPSE271"
+""
+1 135 905 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+472 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 0.6666666666666675 0 0.666666666666668 1580 146.6666666666647 1 E 135 905 15 15
+2 474
+"PRIMITIVE_TEXT128"
+""
+1 115.1 878.279526713605 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+473 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 0.9999999999999999 0 1 1550.95 -135.6397633568033 0 E 115.1 878.279526713605 122 893
+0 2 2 "0s" 0 0 0 192 0 0  115.1 878.279526713605 1
+1
+LANG:10027 50 MS Shell Dlg 2,-1,13,5,50,0,0,0,0,0,Обычный
+0 1
+LANG:10027 1 -
+14 475
+"TEXT_FIELD62"
+""
+1 1635.256435300119 719.4525695657705 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+474 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+1
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1633.256435300119 718.4525695657701 1707.256435300119 742.4525695657701
+3 "0s" 0 0 0 0 0 -1  E E E
+13 476
+"PUSH_BUTTON90"
+"BORDERLESS_BTN"
+1 1630.337091562733 705.5710328516037 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+475 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1628.337091562733 703.5710328516035 1712.337091562733 777.5710328516034
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+7 477
+"ELLIPSE272"
+""
+1 135 905 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+476 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 0.6666666666666675 0 0.666666666666668 1500 213.1884057970996 1 E 135 905 15 15
+2 478
+"PRIMITIVE_TEXT129"
+""
+1 115.1 878.279526713605 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+477 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 0.9999999999999999 0 1 1470.95 -69.11802422636839 0 E 115.1 878.279526713605 122 893
+0 2 2 "0s" 0 0 0 192 0 0  115.1 878.279526713605 1
+1
+LANG:10027 50 MS Shell Dlg 2,-1,13,5,50,0,0,0,0,0,Обычный
+0 1
+LANG:10027 1 -
+14 479
+"TEXT_FIELD63"
+""
+1 1555.256435300119 785.9743086962055 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+478 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+1
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1553.256435300119 784.974308696205 1627.256435300119 808.974308696205
+3 "0s" 0 0 0 0 0 -1  E E E
+13 480
+"PUSH_BUTTON91"
+"BORDERLESS_BTN"
+1 1550.010639347607 771.7238241832157 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+479 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1548.010639347607 769.7238241832152 1632.010639347607 843.7238241832152
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+7 481
+"ELLIPSE273"
+""
+1 135 905 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+480 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 0.6666666666666675 0 0.666666666666668 1580 213.1884057970996 1 E 135 905 15 15
+2 482
+"PRIMITIVE_TEXT130"
+""
+1 115.1 878.279526713605 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+481 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 0.9999999999999999 0 1 1550.95 -69.11802422636845 0 E 115.1 878.279526713605 122 893
+0 2 2 "0s" 0 0 0 192 0 0  115.1 878.279526713605 1
+1
+LANG:10027 50 MS Shell Dlg 2,-1,13,5,50,0,0,0,0,0,Обычный
+0 1
+LANG:10027 1 -
+14 483
+"TEXT_FIELD64"
+""
+1 1635.256435300119 785.9743086962055 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+482 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+1
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1633.256435300119 784.974308696205 1707.256435300119 808.974308696205
+3 "0s" 0 0 0 0 0 -1  E E E
+13 484
+"PUSH_BUTTON92"
+"BORDERLESS_BTN"
+1 1630.337091562733 772.0927719820387 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+483 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1628.337091562733 770.0927719820384 1712.337091562733 844.0927719820384
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+6 491
+"RECTANGLE153"
+""
+1 830 430 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+490 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+E E 0 3 3 2 1 E 0.7071067811865476 -0.7071067811865476 0.7071067811865476 0.7071067811865476 669.04545570495 792.8427124746189 1 E 830 430 850 450
+4 492
+"LINE157"
+""
+1 1574.142135623731 524.1421356237302 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+491 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 3 2 1 E  1574.142135623731 524.1421356237302 1574.142135623731 495.8578643762683
+7 495
+"ELLIPSE275"
+""
+1 135 905 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+494 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 0.6666666666666675 0 0.666666666666668 1670 -93.33333333333451 1 E 135 905 15 15
+2 496
+"PRIMITIVE_TEXT131"
+""
+1 40 80 E E E 1 E 1 E N "sd_grey_darken" E N "_Window" E E
+ E E
+495 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 0.6001096656084114 0 0.6112562119572595 1734.112885181849 455.0231901895692 0 E 40 80 60 100
+0 2 2 "0s" 0 0 0 64 0 0  40 80 1
+1
+LANG:10027 47 Arial,-1,10,5,75,0,0,0,0,0,Полужирный
+0 1
+LANG:10027 1 -
+10 497
+"POLYGON444"
+""
+1 224 156 E E E 1 E 1 E N "sd_grey_dark" E N "sd_grey_main" E E
+ E E
+496 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 3 2 1 E -0.6208030877383327 0.0001372103715923076 -0.0001354277513020378 -0.6357112881129973 1889.082462945271 615.92114622893 1 E 4 224 156
+224 177.3333333333333
+242 167.3333333333333
+243.3333333333333 167.3333333333333
+ 1
+13 498
+"PUSH_BUTTON93"
+"BORDERLESS_BTN"
+1 1720 480.0000000000001 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+497 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1718 477.9999999999998 1794.793087102111 543.8227026636516
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+7 499
+"ELLIPSE276"
+""
+1 135 905 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+498 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 0.6666666666666675 0 0.666666666666668 1669.874804420621 -31.55241678411721 1 E 135 905 15 15
+2 500
+"PRIMITIVE_TEXT132"
+""
+1 40 80 E E E 1 E 1 E N "sd_grey_darken" E N "_Window" E E
+ E E
+499 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 0.6001096656084114 0 0.6112562119572595 1733.98768960247 516.8041067387867 0 E 40 80 60 100
+0 2 2 "0s" 0 0 0 64 0 0  40 80 1
+1
+LANG:10027 47 Arial,-1,10,5,75,0,0,0,0,0,Полужирный
+0 1
+LANG:10027 1 -
+10 501
+"POLYGON445"
+""
+1 224 156 E E E 1 E 1 E N "sd_grey_dark" E N "sd_grey_main" E E
+ E E
+500 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 3 2 1 E -0.6208030877383327 0.0001372103715923076 -0.0001354277513020378 -0.6357112881129973 1888.957267365891 677.7020627781476 1 E 4 224 156
+224 177.3333333333333
+242 167.3333333333333
+243.3333333333333 167.3333333333333
+ 1
+13 502
+"PUSH_BUTTON94"
+"BORDERLESS_BTN"
+1 1719.874804420621 541.7809165492174 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+501 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1717.87480442062 539.780916549217 1794.667891522731 605.6036192128688
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+7 503
+"ELLIPSE277"
+""
+1 135 905 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+502 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 0.6666666666666675 0 0.666666666666668 1669.812206630931 30.20760670788275 1 E 135 905 15 15
+2 504
+"PRIMITIVE_TEXT133"
+""
+1 40 80 E E E 1 E 1 E N "sd_grey_darken" E N "_Window" E E
+ E E
+503 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 0.6001096656084114 0 0.6112562119572595 1733.92509181278 578.5641302307868 0 E 40 80 60 100
+0 2 2 "0s" 0 0 0 64 0 0  40 80 1
+1
+LANG:10027 47 Arial,-1,10,5,75,0,0,0,0,0,Полужирный
+0 1
+LANG:10027 1 -
+10 505
+"POLYGON446"
+""
+1 224 156 E E E 1 E 1 E N "sd_grey_dark" E N "sd_grey_main" E E
+ E E
+504 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 3 2 1 E -0.6208030877383327 0.0001372103715923076 -0.0001354277513020378 -0.6357112881129973 1888.894669576202 739.4620862701472 1 E 4 224 156
+224 177.3333333333333
+242 167.3333333333333
+243.3333333333333 167.3333333333333
+ 1
+13 506
+"PUSH_BUTTON95"
+"BORDERLESS_BTN"
+1 1719.812206630931 603.5409400412173 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+505 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1717.812206630931 601.540940041217 1794.605293733042 667.3636427048689
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+7 507
+"ELLIPSE278"
+""
+1 135 905 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+506 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 0.6666666666666675 0 0.666666666666668 1500 -3.333333333335248 1 E 135 905 15 15
+2 508
+"PRIMITIVE_TEXT134"
+""
+1 115.1 878.279526713605 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+507 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 0.9999999999999999 0 1 1470.95 -285.6397633568032 0 E 115.1 878.279526713605 122 893
+0 2 2 "0s" 0 0 0 192 0 0  115.1 878.279526713605 1
+1
+LANG:10027 50 MS Shell Dlg 2,-1,13,5,50,0,0,0,0,0,Обычный
+0 1
+LANG:10027 1 -
+14 509
+"TEXT_FIELD65"
+""
+1 1555.256435300119 569.4525695657705 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+508 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+1
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1553.256435300119 568.4525695657704 1627.256435300119 592.4525695657703
+3 "0s" 0 0 0 0 0 -1  E E E
+13 510
+"PUSH_BUTTON96"
+"BORDERLESS_BTN"
+1 1550.337091562733 555.5710328516038 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+509 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1548.337091562733 553.5710328516035 1632.337091562733 627.5710328516035
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+7 511
+"ELLIPSE279"
+""
+1 135 905 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+510 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 0.6666666666666675 0 0.666666666666668 1580 -3.333333333335303 1 E 135 905 15 15
+2 512
+"PRIMITIVE_TEXT135"
+""
+1 115.1 878.279526713605 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+511 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 0.9999999999999999 0 1 1550.95 -285.6397633568033 0 E 115.1 878.279526713605 122 893
+0 2 2 "0s" 0 0 0 192 0 0  115.1 878.279526713605 1
+1
+LANG:10027 50 MS Shell Dlg 2,-1,13,5,50,0,0,0,0,0,Обычный
+0 1
+LANG:10027 1 -
+14 513
+"TEXT_FIELD66"
+""
+1 1635.256435300119 569.4525695657705 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+512 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+1
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1633.256435300119 568.4525695657704 1707.256435300119 592.4525695657703
+3 "0s" 0 0 0 0 0 -1  E E E
+13 514
+"PUSH_BUTTON97"
+"BORDERLESS_BTN"
+1 1630.337091562733 555.5710328516038 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+513 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1628.337091562733 553.5710328516035 1712.337091562733 627.5710328516035
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+7 515
+"ELLIPSE280"
+""
+1 135 905 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+514 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 0.6666666666666675 0 0.666666666666668 1500 63.18840579709962 1 E 135 905 15 15
+2 516
+"PRIMITIVE_TEXT136"
+""
+1 115.1 878.279526713605 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+515 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 0.9999999999999999 0 1 1470.95 -219.1180242263684 0 E 115.1 878.279526713605 122 893
+0 2 2 "0s" 0 0 0 192 0 0  115.1 878.279526713605 1
+1
+LANG:10027 50 MS Shell Dlg 2,-1,13,5,50,0,0,0,0,0,Обычный
+0 1
+LANG:10027 1 -
+14 517
+"TEXT_FIELD67"
+""
+1 1555.256435300119 635.9743086962055 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+516 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+1
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1553.256435300119 634.9743086962054 1627.256435300119 658.9743086962051
+3 "0s" 0 0 0 0 0 -1  E E E
+13 518
+"PUSH_BUTTON98"
+"BORDERLESS_BTN"
+1 1550.337091562733 622.0927719820387 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+517 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1548.337091562733 620.0927719820385 1632.337091562733 694.0927719820382
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+7 519
+"ELLIPSE281"
+""
+1 135 905 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+518 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 0.6666666666666675 0 0.666666666666668 1580 63.18840579709956 1 E 135 905 15 15
+2 520
+"PRIMITIVE_TEXT137"
+""
+1 115.1 878.279526713605 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+519 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 0.9999999999999999 0 1 1550.95 -219.1180242263684 0 E 115.1 878.279526713605 122 893
+0 2 2 "0s" 0 0 0 192 0 0  115.1 878.279526713605 1
+1
+LANG:10027 50 MS Shell Dlg 2,-1,13,5,50,0,0,0,0,0,Обычный
+0 1
+LANG:10027 1 -
+14 521
+"TEXT_FIELD68"
+""
+1 1635.256435300119 635.9743086962055 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+520 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+1
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1633.256435300119 634.9743086962054 1707.256435300119 658.9743086962051
+3 "0s" 0 0 0 0 0 -1  E E E
+13 522
+"PUSH_BUTTON99"
+"BORDERLESS_BTN"
+1 1630.337091562733 622.0927719820387 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+521 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1628.337091562733 620.0927719820385 1712.337091562733 694.0927719820382
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+7 549
+"ELLIPSE286"
+""
+1 135 905 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+548 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 0.6666666666666675 0 0.666666666666668 1470 -133.3333333333345 1 E 135 905 15 15
+2 550
+"PRIMITIVE_TEXT140"
+""
+1 115.1 878.279526713605 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+549 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 0.9999999999999999 0 1 1440.95 -415.6397633568026 0 E 115.1 878.279526713605 122 893
+0 2 2 "0s" 0 0 0 192 0 0  115.1 878.279526713605 1
+1
+LANG:10027 50 MS Shell Dlg 2,-1,13,5,50,0,0,0,0,0,Обычный
+0 1
+LANG:10027 1 -
+14 551
+"TEXT_FIELD71"
+""
+1 1525.256435300118 439.4525695657714 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+550 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+1
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1523.256435300118 438.4525695657713 1597.256435300118 462.4525695657709
+3 "0s" 0 0 0 0 0 -1  E E E
+13 552
+"PUSH_BUTTON103"
+"BORDERLESS_BTN"
+1 1520.337091562732 425.5710328516044 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+551 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1518.337091562732 423.5710328516043 1602.337091562732 497.5710328516041
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+7 554
+"ELLIPSE287"
+""
+1 135 905 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+553 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 0.6666666666666675 0 0.666666666666668 1760 -143.3333333333346 1 E 135 905 15 15
+2 555
+"PRIMITIVE_TEXT141"
+""
+1 115.1 878.279526713605 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+554 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 0.9999999999999999 0 1 1730.95 -425.6397633568026 0 E 115.1 878.279526713605 122 893
+0 2 2 "0s" 0 0 0 192 0 0  115.1 878.279526713605 1
+1
+LANG:10027 50 MS Shell Dlg 2,-1,13,5,50,0,0,0,0,0,Обычный
+0 1
+LANG:10027 1 -
+14 556
+"TEXT_FIELD72"
+""
+1 1815.256435300119 429.4525695657713 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+555 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+1
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1813.256435300119 428.4525695657711 1887.256435300119 452.4525695657711
+3 "0s" 0 0 0 0 0 -1  E E E
+13 557
+"PUSH_BUTTON104"
+"BORDERLESS_BTN"
+1 1810.337091562734 415.5710328516045 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+556 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1808.337091562733 413.5710328516041 1892.337091562733 487.5710328516041
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+7 558
+"ELLIPSE288"
+""
+1 135 905 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+557 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 0.6666666666666675 0 0.666666666666668 1760 -76.81159420289967 1 E 135 905 15 15
+2 559
+"PRIMITIVE_TEXT142"
+""
+1 115.1 878.279526713605 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+558 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 0.9999999999999999 0 1 1730.95 -359.1180242263677 0 E 115.1 878.279526713605 122 893
+0 2 2 "0s" 0 0 0 192 0 0  115.1 878.279526713605 1
+1
+LANG:10027 50 MS Shell Dlg 2,-1,13,5,50,0,0,0,0,0,Обычный
+0 1
+LANG:10027 1 -
+14 560
+"TEXT_FIELD73"
+""
+1 1815.256435300119 495.9743086962063 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+559 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+1
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1813.256435300119 494.9743086962059 1887.256435300119 518.9743086962058
+3 "0s" 0 0 0 0 0 -1  E E E
+13 561
+"PUSH_BUTTON105"
+"BORDERLESS_BTN"
+1 1810.337091562734 482.0927719820394 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+560 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1808.337091562733 480.0927719820393 1892.337091562733 554.092771982039
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+7 564
+"ELLIPSE289"
+""
+1 135 905 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+563 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 0.6666666666666675 0 0.666666666666668 1233.612908437265 151.09563381506 1 E 135 905 15 15
+2 565
+"PRIMITIVE_TEXT143"
+""
+1 115.1 878.279526713605 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+564 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 0.9999999999999999 0 1 1204.562908437265 -131.2107962084079 0 E 115.1 878.279526713605 122 893
+0 2 2 "0s" 0 0 0 192 0 0  115.1 878.279526713605 1
+1
+LANG:10027 50 MS Shell Dlg 2,-1,13,5,50,0,0,0,0,0,Обычный
+0 1
+LANG:10027 1 -
+14 566
+"TEXT_FIELD74"
+""
+1 1288.869343737384 723.8815367141658 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+565 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+1
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1286.869343737384 722.8815367141656 1360.869343737384 746.8815367141656
+3 "0s" 0 0 0 0 0 -1  E E E
+13 567
+"PUSH_BUTTON106"
+"BORDERLESS_BTN"
+1 1283.949999999998 709.999999999999 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+566 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1281.949999999998 707.9999999999987 1365.949999999998 781.9999999999985
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+7 568
+"ELLIPSE290"
+""
+1 135 905 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+567 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 0.6666666666666675 0 0.666666666666668 1313.612908437265 151.09563381506 1 E 135 905 15 15
+2 569
+"PRIMITIVE_TEXT144"
+""
+1 115.1 878.279526713605 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+568 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 0.9999999999999999 0 1 1284.562908437265 -131.2107962084081 0 E 115.1 878.279526713605 122 893
+0 2 2 "0s" 0 0 0 192 0 0  115.1 878.279526713605 1
+1
+LANG:10027 50 MS Shell Dlg 2,-1,13,5,50,0,0,0,0,0,Обычный
+0 1
+LANG:10027 1 -
+14 570
+"TEXT_FIELD75"
+""
+1 1368.869343737384 723.8815367141658 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+569 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+1
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1366.869343737384 722.8815367141656 1440.869343737384 746.8815367141656
+3 "0s" 0 0 0 0 0 -1  E E E
+13 571
+"PUSH_BUTTON107"
+"BORDERLESS_BTN"
+1 1363.949999999998 709.999999999999 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+570 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1361.949999999998 707.9999999999987 1445.949999999998 781.9999999999985
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+7 572
+"ELLIPSE291"
+""
+1 135 905 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+571 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 0.6666666666666675 0 0.666666666666668 1233.612908437265 217.6173729454949 1 E 135 905 15 15
+2 573
+"PRIMITIVE_TEXT145"
+""
+1 115.1 878.279526713605 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+572 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 0.9999999999999999 0 1 1204.562908437265 -64.68905707797313 0 E 115.1 878.279526713605 122 893
+0 2 2 "0s" 0 0 0 192 0 0  115.1 878.279526713605 1
+1
+LANG:10027 50 MS Shell Dlg 2,-1,13,5,50,0,0,0,0,0,Обычный
+0 1
+LANG:10027 1 -
+14 574
+"TEXT_FIELD76"
+""
+1 1288.869343737384 790.4032758446008 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+573 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+1
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1286.869343737384 789.4032758446004 1360.869343737384 813.4032758446003
+3 "0s" 0 0 0 0 0 -1  E E E
+13 575
+"PUSH_BUTTON108"
+"BORDERLESS_BTN"
+1 1283.623547784872 776.152791331611 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+574 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1281.623547784872 774.1527913316106 1365.623547784872 848.1527913316106
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+7 576
+"ELLIPSE292"
+""
+1 135 905 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+575 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 0.6666666666666675 0 0.666666666666668 1313.612908437265 217.6173729454949 1 E 135 905 15 15
+2 577
+"PRIMITIVE_TEXT146"
+""
+1 115.1 878.279526713605 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+576 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 0.9999999999999999 0 1 1284.562908437265 -64.68905707797319 0 E 115.1 878.279526713605 122 893
+0 2 2 "0s" 0 0 0 192 0 0  115.1 878.279526713605 1
+1
+LANG:10027 50 MS Shell Dlg 2,-1,13,5,50,0,0,0,0,0,Обычный
+0 1
+LANG:10027 1 -
+14 578
+"TEXT_FIELD77"
+""
+1 1368.869343737384 790.4032758446008 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+577 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+1
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1366.869343737384 789.4032758446004 1440.869343737384 813.4032758446003
+3 "0s" 0 0 0 0 0 -1  E E E
+13 579
+"PUSH_BUTTON109"
+"BORDERLESS_BTN"
+1 1363.949999999998 776.521739130434 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+578 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1361.949999999998 774.5217391304337 1445.949999999998 848.5217391304335
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+2 594
+"PRIMITIVE_TEXT148"
+""
+1 1951.8938248705 116.8868067766228 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+593 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 1.187686590935527 0 1 -618.2381227285512 743.1131932233772 0 E 1951.8938248705 116.8868067766228 2126 132
+0 2 2 "0s" 0 0 0 192 0 0  1951.8938248705 116.8868067766228 1
+1
+LANG:10027 56 MS Shell Dlg 2,-1,13,5,75,0,0,0,0,0,Полужирный
+0 1
+LANG:10027 34 Дренаж в ЕД-4/1, ЕД-4/2
+2 595
+"PRIMITIVE_TEXT149"
+""
+1 1951.8938248705 116.8868067766228 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+594 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 1.06203292973543 0 1 -293.4164293343323 113.1131932233772 0 E 1951.8938248705 116.8868067766228 2045 132
+0 2 2 "0s" 0 0 0 192 0 0  1951.8938248705 116.8868067766228 1
+1
+LANG:10027 56 MS Shell Dlg 2,-1,13,5,75,0,0,0,0,0,Полужирный
+0 1
+LANG:10027 24 Газ в систему
+2 596
+"PRIMITIVE_TEXT150"
+""
+1 1951.8938248705 116.8868067766228 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+595 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 1.187686590935527 0 1 -628.2381227285509 -46.88680677662281 0 E 1951.8938248705 116.8868067766228 2141 150
+0 2 2 "0s" 0 0 0 192 0 0  1951.8938248705 116.8868067766228 2
+1
+LANG:10027 56 MS Shell Dlg 2,-1,13,5,75,0,0,0,0,0,Полужирный
+0 1
+LANG:10027 48 Теплоноситель на подогрев
+1
+LANG:10027 56 MS Shell Dlg 2,-1,13,5,75,0,0,0,0,0,Полужирный
+0 1
+LANG:10027 19  ЕД-4/1, ЕД-4/2
+2 599
+"PRIMITIVE_TEXT151"
+""
+1 1951.8938248705 116.8868067766228 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+598 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 1.187686590935527 0 1 -588.2381227285512 23.1131932233772 0 E 1951.8938248705 116.8868067766228 2094 132
+0 2 2 "0s" 0 0 0 192 0 0  1951.8938248705 116.8868067766228 1
+1
+LANG:10027 56 MS Shell Dlg 2,-1,13,5,75,0,0,0,0,0,Полужирный
+0 1
+LANG:10027 34 Теплоноситель в П-1
+7 600
+"ELLIPSE294"
+""
+1 135 905 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+599 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 0.6666666666666675 0 0.666666666666668 1475.756540994935 -239.9588596062731 1 E 135 905 15 15
+10 602
+"POLYGON458"
+""
+1 224 156 E E E 1 E 1 E N "sd_grey_dark" E N "sd_grey_main" E E
+ E E
+601 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 3 2 1 E -0.6208030877383327 0.0001372103715923076 -0.0001354277513020378 -0.6357112881129973 1694.839003940206 469.2956199559911 1 E 4 224 156
+224 177.3333333333333
+242 167.3333333333333
+243.3333333333333 167.3333333333333
+ 1
+7 603
+"ELLIPSE295"
+""
+1 135 905 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+602 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 0.6666666666666675 0 0.666666666666668 339.5459325386093 -313.8600681057963 1 E 135 905 15 15
+2 604
+"PRIMITIVE_TEXT152"
+""
+1 40 80 E E E 1 E 1 E N "sd_grey_darken" E N "_Window" E E
+ E E
+603 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 0.6001096656084114 0 0.6112562119572595 403.658817720458 234.4964554171073 0 E 40 80 60 100
+0 2 2 "0s" 0 0 0 64 0 0  40 80 1
+1
+LANG:10027 47 Arial,-1,10,5,75,0,0,0,0,0,Полужирный
+0 1
+LANG:10027 1 -
+10 605
+"POLYGON459"
+""
+1 224 156 E E E 1 E 1 E N "sd_grey_dark" E N "sd_grey_main" E E
+ E E
+604 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 3 2 1 E -0.6208030877383327 0.0001372103715923076 -0.0001354277513020378 -0.6357112881129973 558.6283954838796 395.3944114564682 1 E 4 224 156
+224 177.3333333333333
+242 167.3333333333333
+243.3333333333333 167.3333333333333
+ 1
+13 606
+"PUSH_BUTTON111"
+"BORDERLESS_BTN"
+1 389.5459325386091 259.4732652275383 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+605 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  387.5459325386091 257.473265227538 464.3390196407199 323.2959678911899
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+7 607
+"ELLIPSE296"
+""
+1 135 905 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+606 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 0.6666666666666675 0 0.666666666666668 339.4833347489196 -252.1000446137963 1 E 135 905 15 15
+2 608
+"PRIMITIVE_TEXT153"
+""
+1 40 80 E E E 1 E 1 E N "sd_grey_darken" E N "_Window" E E
+ E E
+607 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 0.6001096656084114 0 0.6112562119572595 403.5962199307683 296.2564789091074 0 E 40 80 60 100
+0 2 2 "0s" 0 0 0 64 0 0  40 80 1
+1
+LANG:10027 47 Arial,-1,10,5,75,0,0,0,0,0,Полужирный
+0 1
+LANG:10027 1 -
+10 609
+"POLYGON460"
+""
+1 224 156 E E E 1 E 1 E N "sd_grey_dark" E N "sd_grey_main" E E
+ E E
+608 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 3 2 1 E -0.6208030877383327 0.0001372103715923076 -0.0001354277513020378 -0.6357112881129973 558.5657976941905 457.1544349484678 1 E 4 224 156
+224 177.3333333333333
+242 167.3333333333333
+243.3333333333333 167.3333333333333
+ 1
+13 610
+"PUSH_BUTTON112"
+"BORDERLESS_BTN"
+1 389.4833347489195 321.2332887195381 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+609 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  387.4833347489192 319.233288719538 464.27642185103 385.0559913831896
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+7 611
+"ELLIPSE297"
+""
+1 135 905 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+610 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 0.6666666666666675 0 0.666666666666668 435.133839297947 -313.8600681057962 1 E 135 905 15 15
+2 612
+"PRIMITIVE_TEXT154"
+""
+1 40 80 E E E 1 E 1 E N "sd_grey_darken" E N "_Window" E E
+ E E
+611 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 0.6001096656084114 0 0.6112562119572595 499.2467244797957 234.4964554171074 0 E 40 80 60 100
+0 2 2 "0s" 0 0 0 64 0 0  40 80 1
+1
+LANG:10027 47 Arial,-1,10,5,75,0,0,0,0,0,Полужирный
+0 1
+LANG:10027 1 -
+10 613
+"POLYGON461"
+""
+1 224 156 E E E 1 E 1 E N "sd_grey_dark" E N "sd_grey_main" E E
+ E E
+612 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 3 2 1 E -0.6208030877383327 0.0001372103715923076 -0.0001354277513020378 -0.6357112881129973 654.2163022432173 395.3944114564683 1 E 4 224 156
+224 177.3333333333333
+242 167.3333333333333
+243.3333333333333 167.3333333333333
+ 1
+13 614
+"PUSH_BUTTON113"
+"BORDERLESS_BTN"
+1 485.1338392979466 259.4732652275383 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+613 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  483.1338392979466 257.473265227538 559.9269264000574 323.2959678911899
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+7 615
+"ELLIPSE298"
+""
+1 135 905 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+614 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 0.6666666666666675 0 0.666666666666668 435.0712415082573 -252.1000446137963 1 E 135 905 15 15
+2 616
+"PRIMITIVE_TEXT155"
+""
+1 40 80 E E E 1 E 1 E N "sd_grey_darken" E N "_Window" E E
+ E E
+615 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 0.6001096656084114 0 0.6112562119572595 499.184126690106 296.2564789091074 0 E 40 80 60 100
+0 2 2 "0s" 0 0 0 64 0 0  40 80 1
+1
+LANG:10027 47 Arial,-1,10,5,75,0,0,0,0,0,Полужирный
+0 1
+LANG:10027 1 -
+10 617
+"POLYGON462"
+""
+1 224 156 E E E 1 E 1 E N "sd_grey_dark" E N "sd_grey_main" E E
+ E E
+616 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 3 2 1 E -0.6208030877383327 0.0001372103715923076 -0.0001354277513020378 -0.6357112881129973 654.1537044535282 457.1544349484679 1 E 4 224 156
+224 177.3333333333333
+242 167.3333333333333
+243.3333333333333 167.3333333333333
+ 1
+13 618
+"PUSH_BUTTON114"
+"BORDERLESS_BTN"
+1 485.071241508257 321.2332887195382 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+617 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  483.0712415082567 319.2332887195381 559.8643286103676 385.0559913831899
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+6 619
+"RECTANGLE185"
+""
+1 830 170 E E E 1 E 1 E N {0,0,0} E N "WF_Frame" E E
+ E E
+618 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+E E 0 2 3 2 1 E 0.931843635316154 0 1 -250.8855263718924 20 1 E 830 170 890 190
+2 620
+"PRIMITIVE_TEXT242"
+""
+1 1951.8938248705 116.8868067766228 E E E 1 E 1 E N "_WindowText" E N "_Window" E E
+ E E
+619 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+4
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+"transformable" "0"
+E E 0 1 3 2 1 E 1.187686590935527 0 1 -1790.273376049657 75.5565966116886 0 E 1951.8938248705 116.8868067766228 1989 132
+0 2 2 "0s" 0 0 0 192 0 0  1951.8938248705 116.8868067766228 1
+1
+LANG:10027 56 MS Shell Dlg 2,-1,13,5,75,0,0,0,0,0,Полужирный
+0 1
+LANG:10027 8 СППК
+10 621
+"POLYGON612"
+""
+1 23 117 E E E 1 E 1 E N {1,50,90} E N {232,237,243} E E
+ E E
+620 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 1 0 1 E 0.3975677613600285 0 0.3837010352984772 110.8717663890015 277.8309241420499 1 E 3 25 120.5
+25 168.5
+78 144.5
+ 1
+10 622
+"POLYGON613"
+""
+1 23 117 E E E 1 E 1 E N {1,50,90} E N {0,0,0} E E
+ E E
+621 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 1 0 1 E -0.3975677613600285 7.721136246790935e-17 -8.000173495504326e-17 -0.3837010352984772 173.1763141335656 388.7205233433099 1 E 3 25 120.5
+25 168.5
+78 144.5
+ 1
+4 623
+"LINE439"
+""
+1 142.0240402612837 324.4505999308151 E E E 1 E 1 E N {1,50,90} E N {255,255,255} E E
+ E E
+622 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 10 1 0 1 E  142.0240402612833 324.450599930815 142.0240402612833 333.2757237426802
+7 624
+"ELLIPSE416"
+""
+1 140 111 E E E 1 E 1 E N {1,50,90} E N {232,237,243} E E
+ E E
+623 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 2 1 1 E 0.4289546898884516 0 0.4038958266299758 81.97038367690041 273.4789466101119 1 E 140 111 19 19
+6 625
+"RECTANGLE206"
+""
+1 120 128 E E E 1 E 1 E N {0,0,0} E N "_Transparent" E E
+ E E
+624 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+E "main(mapping event)
+{
+  string desc = dpGetDescription(DP + \".\");
+  ChildPanelOnCentral(\"faceplates/VLV_n/main.pnl\", \"Панель управдения задвижкой: \" + desc, makeDynString(\"$dp:\" + $dp));
+}
+" 0
+ -1 1 3 2 1 E 0.2925942046659517 0 0.2299367993374897 85.69965586308811 282.2044399909409 1 E 120 128 265 268
+4 626
+"LINE440"
+""
+1 133.8739011534038 318.3113833660395 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+625 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E  133.8739011534033 318.3113833660393 150.1741793691652 318.3113833660393
+4 627
+"LINE441"
+""
+1 142.0240402612837 310.63736266007 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+626 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E  142.0240402612833 310.6373626600702 142.0240402612833 325.9854040720091
+13 628
+"PUSH_BUTTON115"
+"BORDERLESS_BTN"
+1 110 300 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+627 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  107.9999999999998 297.9999999999999 176.0480805225673 353.9708081440182
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+10 629
+"POLYGON614"
+""
+1 23 117 E E E 1 E 1 E N {1,50,90} E N {232,237,243} E E
+ E E
+628 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 1 0 1 E 0.3975677613600285 0 0.3837010352984772 200.8717663890014 277.8309241420499 1 E 3 25 120.5
+25 168.5
+78 144.5
+ 1
+10 630
+"POLYGON615"
+""
+1 23 117 E E E 1 E 1 E N {1,50,90} E N {0,0,0} E E
+ E E
+629 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 1 0 1 E -0.3975677613600285 7.721136246790935e-17 -8.000173495504326e-17 -0.3837010352984772 263.1763141335656 388.7205233433099 1 E 3 25 120.5
+25 168.5
+78 144.5
+ 1
+4 631
+"LINE442"
+""
+1 232.0240402612837 324.4505999308151 E E E 1 E 1 E N {1,50,90} E N {255,255,255} E E
+ E E
+630 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 10 1 0 1 E  232.0240402612833 324.450599930815 232.0240402612833 333.2757237426802
+7 632
+"ELLIPSE417"
+""
+1 140 111 E E E 1 E 1 E N {1,50,90} E N {232,237,243} E E
+ E E
+631 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 2 1 1 E 0.4289546898884516 0 0.4038958266299758 171.9703836769004 273.4789466101119 1 E 140 111 19 19
+6 633
+"RECTANGLE207"
+""
+1 120 128 E E E 1 E 1 E N {0,0,0} E N "_Transparent" E E
+ E E
+632 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+E "main(mapping event)
+{
+  string desc = dpGetDescription(DP + \".\");
+  ChildPanelOnCentral(\"faceplates/VLV_n/main.pnl\", \"Панель управдения задвижкой: \" + desc, makeDynString(\"$dp:\" + $dp));
+}
+" 0
+ -1 1 3 2 1 E 0.2925942046659517 0 0.2299367993374897 175.6996558630881 282.2044399909409 1 E 120 128 265 268
+4 634
+"LINE443"
+""
+1 223.8739011534038 318.3113833660395 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+633 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E  223.8739011534033 318.3113833660393 240.1741793691652 318.3113833660393
+4 635
+"LINE444"
+""
+1 232.0240402612837 310.63736266007 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+634 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E  232.0240402612833 310.6373626600702 232.0240402612833 325.9854040720091
+13 636
+"PUSH_BUTTON116"
+"BORDERLESS_BTN"
+1 200 300 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+635 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  197.9999999999998 297.9999999999999 266.0480805225673 353.9708081440182
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+10 637
+"POLYGON616"
+""
+1 23 117 E E E 1 E 1 E N {1,50,90} E N {232,237,243} E E
+ E E
+636 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 1 0 1 E 0.3975677613600285 0 0.3837010352984772 220.8717663890014 657.8309241420499 1 E 3 25 120.5
+25 168.5
+78 144.5
+ 1
+10 638
+"POLYGON617"
+""
+1 23 117 E E E 1 E 1 E N {1,50,90} E N {0,0,0} E E
+ E E
+637 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 1 0 1 E -0.3975677613600285 7.721136246790935e-17 -8.000173495504326e-17 -0.3837010352984772 283.1763141335656 768.7205233433099 1 E 3 25 120.5
+25 168.5
+78 144.5
+ 1
+4 639
+"LINE445"
+""
+1 252.0240402612837 704.4505999308151 E E E 1 E 1 E N {1,50,90} E N {255,255,255} E E
+ E E
+638 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 10 1 0 1 E  252.0240402612833 704.450599930815 252.0240402612833 713.27572374268
+7 640
+"ELLIPSE418"
+""
+1 140 111 E E E 1 E 1 E N {1,50,90} E N {232,237,243} E E
+ E E
+639 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 2 1 1 E 0.4289546898884516 0 0.4038958266299758 191.9703836769004 653.478946610112 1 E 140 111 19 19
+6 641
+"RECTANGLE208"
+""
+1 120 128 E E E 1 E 1 E N {0,0,0} E N "_Transparent" E E
+ E E
+640 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+E "main(mapping event)
+{
+  string desc = dpGetDescription(DP + \".\");
+  ChildPanelOnCentral(\"faceplates/VLV_n/main.pnl\", \"Панель управдения задвижкой: \" + desc, makeDynString(\"$dp:\" + $dp));
+}
+" 0
+ -1 1 3 2 1 E 0.2925942046659517 0 0.2299367993374897 195.6996558630881 662.204439990941 1 E 120 128 265 268
+4 642
+"LINE446"
+""
+1 243.8739011534038 698.3113833660395 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+641 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E  243.8739011534033 698.3113833660393 260.1741793691652 698.3113833660393
+4 643
+"LINE447"
+""
+1 252.0240402612837 690.63736266007 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+642 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E  252.0240402612833 690.6373626600702 252.0240402612833 705.985404072009
+13 644
+"PUSH_BUTTON117"
+"BORDERLESS_BTN"
+1 220 680 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+643 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  217.9999999999998 677.9999999999999 286.0480805225673 733.9708081440183
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+10 645
+"POLYGON618"
+""
+1 23 117 E E E 1 E 1 E N {1,50,90} E N {232,237,243} E E
+ E E
+644 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 1 0 1 E 0.3975677613600285 0 0.3837010352984772 1370.871766389002 37.83092414204989 1 E 3 25 120.5
+25 168.5
+78 144.5
+ 1
+10 646
+"POLYGON619"
+""
+1 23 117 E E E 1 E 1 E N {1,50,90} E N {0,0,0} E E
+ E E
+645 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 1 0 1 E -0.3975677613600285 7.721136246790935e-17 -8.000173495504326e-17 -0.3837010352984772 1433.176314133565 148.7205233433099 1 E 3 25 120.5
+25 168.5
+78 144.5
+ 1
+4 647
+"LINE448"
+""
+1 1402.024040261284 84.45059993081509 E E E 1 E 1 E N {1,50,90} E N {255,255,255} E E
+ E E
+646 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 10 1 0 1 E  1402.024040261283 84.45059993081499 1402.024040261283 93.27572374268021
+7 648
+"ELLIPSE419"
+""
+1 140 111 E E E 1 E 1 E N {1,50,90} E N {232,237,243} E E
+ E E
+647 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 2 1 1 E 0.4289546898884516 0 0.4038958266299758 1341.9703836769 33.4789466101119 1 E 140 111 19 19
+6 649
+"RECTANGLE209"
+""
+1 120 128 E E E 1 E 1 E N {0,0,0} E N "_Transparent" E E
+ E E
+648 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+E "main(mapping event)
+{
+  string desc = dpGetDescription(DP + \".\");
+  ChildPanelOnCentral(\"faceplates/VLV_n/main.pnl\", \"Панель управдения задвижкой: \" + desc, makeDynString(\"$dp:\" + $dp));
+}
+" 0
+ -1 1 3 2 1 E 0.2925942046659517 0 0.2299367993374897 1345.699655863088 42.2044399909409 1 E 120 128 265 268
+4 650
+"LINE449"
+""
+1 1393.873901153404 78.31138336603951 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+649 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E  1393.873901153403 78.31138336603931 1410.174179369165 78.31138336603931
+4 651
+"LINE450"
+""
+1 1402.024040261284 70.63736266007001 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+650 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E  1402.024040261283 70.63736266007021 1402.024040261283 85.98540407200909
+13 652
+"PUSH_BUTTON118"
+"BORDERLESS_BTN"
+1 1370 60 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+651 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1368 57.99999999999989 1436.048080522567 113.9708081440183
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+10 653
+"POLYGON528"
+""
+1 23 117 E E E 1 E 1 E N {1,50,90} E N {232,237,243} E E
+ E E
+652 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 1 0 1 E -0.003491668400640432 -0.4240493000681618 0.4164889629844492 -0.003568096307406884 441.3510997040342 140.1706011695343 1 E 3 25 120.5
+25 168.5
+78 144.5
+ 1
+10 654
+"POLYGON529"
+""
+1 23 117 E E E 1 E 1 E N {1,50,90} E N {0,0,0} E E
+ E E
+653 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 1 0 1 E 0.003491668400640516 0.4240493000681618 -0.4164889629844492 0.003568096307406969 561.1692156871825 72.68483816886936 1 E 3 25 120.5
+25 168.5
+78 144.5
+ 1
+4 655
+"LINE401"
+""
+1 491.6809115469658 106.5097858842729 E E E 1 E 1 E N {1,50,90} E N {255,255,255} E E
+ E E
+654 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 10 1 0 1 E  491.6809115469654 106.5097858842729 501.2601576956081 106.4277196692026
+7 656
+"ELLIPSE371"
+""
+1 140 111 E E E 1 E 1 E N {1,50,90} E N {232,237,243} E E
+ E E
+655 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 2 1 1 E -0.003767326432269938 -0.4575268763893324 0.4384094347204727 -0.003755890849901981 436.88106658576 171.0375420040363 1 E 140 111 19 19
+6 657
+"RECTANGLE210"
+""
+1 120 128 E E E 1 E 1 E N {0,0,0} E N "_Transparent" E E
+ E E
+656 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+E "main(mapping event)
+{
+  string desc = dpGetDescription(DP + \".\");
+  ChildPanelOnCentral(\"faceplates/VLV_n/main.pnl\", \"Панель управдения задвижкой: \" + desc, makeDynString(\"$dp:\" + $dp));
+}
+" 0
+ -1 1 3 2 1 E -0.002569730340175764 -0.312083573547701 0.2495853028739914 -0.002138218480476201 446.3194160979347 166.9787274814482 1 E 120 128 265 268
+4 658
+"LINE402"
+""
+1 485.088667341428 115.2598860765884 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+657 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E  485.0886673414278 115.2598860765884 484.9455089370015 97.87386477379329
+4 659
+"LINE403"
+""
+1 476.6873088795259 106.6382373513396 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+658 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E  476.6873088795258 106.6382373513395 493.3468673989034 106.4955134990435
+10 660
+"POLYGON620"
+""
+1 23 117 E E E 1 E 1 E N {1,50,90} E N {232,237,243} E E
+ E E
+659 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 1 0 1 E -0.003491668400640432 -0.4240493000681618 0.4164889629844492 -0.003568096307406884 781.3510997040339 340.1706011695343 1 E 3 25 120.5
+25 168.5
+78 144.5
+ 1
+10 661
+"POLYGON621"
+""
+1 23 117 E E E 1 E 1 E N {1,50,90} E N {0,0,0} E E
+ E E
+660 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 1 0 1 E 0.003491668400640516 0.4240493000681618 -0.4164889629844492 0.003568096307406969 901.1692156871821 272.6848381688695 1 E 3 25 120.5
+25 168.5
+78 144.5
+ 1
+4 662
+"LINE451"
+""
+1 831.6809115469655 306.509785884273 E E E 1 E 1 E N {1,50,90} E N {255,255,255} E E
+ E E
+661 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 10 1 0 1 E  831.6809115469653 306.509785884273 841.2601576956077 306.4277196692026
+7 663
+"ELLIPSE420"
+""
+1 140 111 E E E 1 E 1 E N {1,50,90} E N {232,237,243} E E
+ E E
+662 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 2 1 1 E -0.003767326432269938 -0.4575268763893324 0.4384094347204727 -0.003755890849901981 776.8810665857598 371.0375420040363 1 E 140 111 19 19
+6 664
+"RECTANGLE211"
+""
+1 120 128 E E E 1 E 1 E N {0,0,0} E N "_Transparent" E E
+ E E
+663 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+E "main(mapping event)
+{
+  string desc = dpGetDescription(DP + \".\");
+  ChildPanelOnCentral(\"faceplates/VLV_n/main.pnl\", \"Панель управдения задвижкой: \" + desc, makeDynString(\"$dp:\" + $dp));
+}
+" 0
+ -1 1 3 2 1 E -0.002569730340175764 -0.312083573547701 0.2495853028739914 -0.002138218480476201 786.3194160979344 366.9787274814482 1 E 120 128 265 268
+4 665
+"LINE452"
+""
+1 825.0886673414277 315.2598860765884 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+664 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E  825.0886673414274 315.2598860765884 824.9455089370011 297.8738647737933
+4 666
+"LINE453"
+""
+1 816.6873088795256 306.6382373513397 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+665 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E  816.6873088795254 306.6382373513396 833.3468673989031 306.4955134990435
+10 667
+"POLYGON622"
+""
+1 23 117 E E E 1 E 1 E N {1,50,90} E N {232,237,243} E E
+ E E
+666 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 1 0 1 E -0.003491668400640432 -0.4240493000681618 0.4164889629844492 -0.003568096307406884 431.3510997040342 820.1706011695343 1 E 3 25 120.5
+25 168.5
+78 144.5
+ 1
+10 668
+"POLYGON623"
+""
+1 23 117 E E E 1 E 1 E N {1,50,90} E N {0,0,0} E E
+ E E
+667 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 1 0 1 E 0.003491668400640516 0.4240493000681618 -0.4164889629844492 0.003568096307406969 551.1692156871824 752.6848381688694 1 E 3 25 120.5
+25 168.5
+78 144.5
+ 1
+4 669
+"LINE454"
+""
+1 481.6809115469658 786.5097858842729 E E E 1 E 1 E N {1,50,90} E N {255,255,255} E E
+ E E
+668 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 10 1 0 1 E  481.6809115469654 786.5097858842728 491.2601576956081 786.4277196692026
+7 670
+"ELLIPSE421"
+""
+1 140 111 E E E 1 E 1 E N {1,50,90} E N {232,237,243} E E
+ E E
+669 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 2 1 1 E -0.003767326432269938 -0.4575268763893324 0.4384094347204727 -0.003755890849901981 426.88106658576 851.0375420040363 1 E 140 111 19 19
+6 671
+"RECTANGLE212"
+""
+1 120 128 E E E 1 E 1 E N {0,0,0} E N "_Transparent" E E
+ E E
+670 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+E "main(mapping event)
+{
+  string desc = dpGetDescription(DP + \".\");
+  ChildPanelOnCentral(\"faceplates/VLV_n/main.pnl\", \"Панель управдения задвижкой: \" + desc, makeDynString(\"$dp:\" + $dp));
+}
+" 0
+ -1 1 3 2 1 E -0.002569730340175764 -0.312083573547701 0.2495853028739914 -0.002138218480476201 436.3194160979347 846.9787274814481 1 E 120 128 265 268
+4 672
+"LINE455"
+""
+1 475.088667341428 795.2598860765884 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+671 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E  475.0886673414278 795.2598860765883 474.9455089370015 777.8738647737932
+4 673
+"LINE456"
+""
+1 466.6873088795259 786.6382373513396 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+672 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E  466.6873088795258 786.6382373513394 483.3468673989034 786.4955134990433
+10 674
+"POLYGON624"
+""
+1 23 117 E E E 1 E 1 E N {1,50,90} E N {232,237,243} E E
+ E E
+673 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 1 0 1 E -0.003491668400640432 -0.4240493000681618 0.4164889629844492 -0.003568096307406884 1051.351099704034 340.1706011695343 1 E 3 25 120.5
+25 168.5
+78 144.5
+ 1
+10 675
+"POLYGON625"
+""
+1 23 117 E E E 1 E 1 E N {1,50,90} E N {0,0,0} E E
+ E E
+674 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 1 0 1 E 0.003491668400640516 0.4240493000681618 -0.4164889629844492 0.003568096307406969 1171.169215687182 272.6848381688695 1 E 3 25 120.5
+25 168.5
+78 144.5
+ 1
+4 676
+"LINE457"
+""
+1 1101.680911546965 306.509785884273 E E E 1 E 1 E N {1,50,90} E N {255,255,255} E E
+ E E
+675 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 10 1 0 1 E  1101.680911546965 306.509785884273 1111.260157695608 306.4277196692026
+7 677
+"ELLIPSE422"
+""
+1 140 111 E E E 1 E 1 E N {1,50,90} E N {232,237,243} E E
+ E E
+676 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 2 1 1 E -0.003767326432269938 -0.4575268763893324 0.4384094347204727 -0.003755890849901981 1046.88106658576 371.0375420040363 1 E 140 111 19 19
+6 678
+"RECTANGLE213"
+""
+1 120 128 E E E 1 E 1 E N {0,0,0} E N "_Transparent" E E
+ E E
+677 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+E "main(mapping event)
+{
+  string desc = dpGetDescription(DP + \".\");
+  ChildPanelOnCentral(\"faceplates/VLV_n/main.pnl\", \"Панель управдения задвижкой: \" + desc, makeDynString(\"$dp:\" + $dp));
+}
+" 0
+ -1 1 3 2 1 E -0.002569730340175764 -0.312083573547701 0.2495853028739914 -0.002138218480476201 1056.319416097934 366.9787274814482 1 E 120 128 265 268
+4 679
+"LINE458"
+""
+1 1095.088667341428 315.2598860765884 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+678 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E  1095.088667341427 315.2598860765884 1094.945508937001 297.8738647737933
+4 680
+"LINE459"
+""
+1 1086.687308879526 306.6382373513397 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+679 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E  1086.687308879526 306.6382373513396 1103.346867398903 306.4955134990435
+10 681
+"POLYGON626"
+""
+1 23 117 E E E 1 E 1 E N {1,50,90} E N {232,237,243} E E
+ E E
+680 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 1 0 1 E -0.003491668400640432 -0.4240493000681618 0.4164889629844492 -0.003568096307406884 1341.351099704034 340.1706011695343 1 E 3 25 120.5
+25 168.5
+78 144.5
+ 1
+10 682
+"POLYGON627"
+""
+1 23 117 E E E 1 E 1 E N {1,50,90} E N {0,0,0} E E
+ E E
+681 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 1 0 1 E 0.003491668400640516 0.4240493000681618 -0.4164889629844492 0.003568096307406969 1461.169215687182 272.6848381688695 1 E 3 25 120.5
+25 168.5
+78 144.5
+ 1
+4 683
+"LINE460"
+""
+1 1391.680911546965 306.509785884273 E E E 1 E 1 E N {1,50,90} E N {255,255,255} E E
+ E E
+682 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 10 1 0 1 E  1391.680911546965 306.509785884273 1401.260157695608 306.4277196692026
+7 684
+"ELLIPSE423"
+""
+1 140 111 E E E 1 E 1 E N {1,50,90} E N {232,237,243} E E
+ E E
+683 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 2 1 1 E -0.003767326432269938 -0.4575268763893324 0.4384094347204727 -0.003755890849901981 1336.88106658576 371.0375420040363 1 E 140 111 19 19
+6 685
+"RECTANGLE214"
+""
+1 120 128 E E E 1 E 1 E N {0,0,0} E N "_Transparent" E E
+ E E
+684 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+E "main(mapping event)
+{
+  string desc = dpGetDescription(DP + \".\");
+  ChildPanelOnCentral(\"faceplates/VLV_n/main.pnl\", \"Панель управдения задвижкой: \" + desc, makeDynString(\"$dp:\" + $dp));
+}
+" 0
+ -1 1 3 2 1 E -0.002569730340175764 -0.312083573547701 0.2495853028739914 -0.002138218480476201 1346.319416097934 366.9787274814482 1 E 120 128 265 268
+4 686
+"LINE461"
+""
+1 1385.088667341428 315.2598860765884 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+685 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E  1385.088667341427 315.2598860765884 1384.945508937001 297.8738647737933
+4 687
+"LINE462"
+""
+1 1376.687308879526 306.6382373513397 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+686 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E  1376.687308879526 306.6382373513396 1393.346867398903 306.4955134990435
+10 688
+"POLYGON628"
+""
+1 23 117 E E E 1 E 1 E N {1,50,90} E N {232,237,243} E E
+ E E
+687 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 1 0 1 E -0.003491668400640432 -0.4240493000681618 0.4164889629844492 -0.003568096307406884 1641.351099704034 340.1706011695343 1 E 3 25 120.5
+25 168.5
+78 144.5
+ 1
+10 689
+"POLYGON629"
+""
+1 23 117 E E E 1 E 1 E N {1,50,90} E N {0,0,0} E E
+ E E
+688 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 1 0 1 E 0.003491668400640516 0.4240493000681618 -0.4164889629844492 0.003568096307406969 1761.169215687182 272.6848381688695 1 E 3 25 120.5
+25 168.5
+78 144.5
+ 1
+4 690
+"LINE463"
+""
+1 1691.680911546965 306.509785884273 E E E 1 E 1 E N {1,50,90} E N {255,255,255} E E
+ E E
+689 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 10 1 0 1 E  1691.680911546965 306.509785884273 1701.260157695608 306.4277196692026
+7 691
+"ELLIPSE424"
+""
+1 140 111 E E E 1 E 1 E N {1,50,90} E N {232,237,243} E E
+ E E
+690 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 2 1 1 E -0.003767326432269938 -0.4575268763893324 0.4384094347204727 -0.003755890849901981 1636.88106658576 371.0375420040363 1 E 140 111 19 19
+6 692
+"RECTANGLE215"
+""
+1 120 128 E E E 1 E 1 E N {0,0,0} E N "_Transparent" E E
+ E E
+691 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+E "main(mapping event)
+{
+  string desc = dpGetDescription(DP + \".\");
+  ChildPanelOnCentral(\"faceplates/VLV_n/main.pnl\", \"Панель управдения задвижкой: \" + desc, makeDynString(\"$dp:\" + $dp));
+}
+" 0
+ -1 1 3 2 1 E -0.002569730340175764 -0.312083573547701 0.2495853028739914 -0.002138218480476201 1646.319416097934 366.9787274814482 1 E 120 128 265 268
+4 693
+"LINE464"
+""
+1 1685.088667341428 315.2598860765884 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+692 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E  1685.088667341427 315.2598860765884 1684.945508937001 297.8738647737933
+4 694
+"LINE465"
+""
+1 1676.687308879526 306.6382373513397 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+693 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E  1676.687308879526 306.6382373513396 1693.346867398903 306.4955134990435
+10 695
+"POLYGON630"
+""
+1 23 117 E E E 1 E 1 E N {1,50,90} E N {232,237,243} E E
+ E E
+694 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 1 0 1 E 0.3975677613600285 0 0.3837010352984772 860.8717663890013 387.8309241420499 1 E 3 25 120.5
+25 168.5
+78 144.5
+ 1
+10 696
+"POLYGON631"
+""
+1 23 117 E E E 1 E 1 E N {1,50,90} E N {0,0,0} E E
+ E E
+695 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 1 0 1 E -0.3975677613600285 7.721136246790935e-17 -8.000173495504326e-17 -0.3837010352984772 923.1763141335653 498.7205233433099 1 E 3 25 120.5
+25 168.5
+78 144.5
+ 1
+4 697
+"LINE466"
+""
+1 892.0240402612835 434.4505999308151 E E E 1 E 1 E N {1,50,90} E N {255,255,255} E E
+ E E
+696 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 10 1 0 1 E  892.0240402612831 434.450599930815 892.0240402612831 443.2757237426802
+7 698
+"ELLIPSE425"
+""
+1 140 111 E E E 1 E 1 E N {1,50,90} E N {232,237,243} E E
+ E E
+697 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 2 1 1 E 0.4289546898884516 0 0.4038958266299758 831.9703836769002 383.4789466101119 1 E 140 111 19 19
+6 699
+"RECTANGLE216"
+""
+1 120 128 E E E 1 E 1 E N {0,0,0} E N "_Transparent" E E
+ E E
+698 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+E "main(mapping event)
+{
+  string desc = dpGetDescription(DP + \".\");
+  ChildPanelOnCentral(\"faceplates/VLV_n/main.pnl\", \"Панель управдения задвижкой: \" + desc, makeDynString(\"$dp:\" + $dp));
+}
+" 0
+ -1 1 3 2 1 E 0.2925942046659517 0 0.2299367993374897 835.6996558630879 392.2044399909409 1 E 120 128 265 268
+4 700
+"LINE467"
+""
+1 883.8739011534036 428.3113833660395 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+699 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E  883.873901153403 428.3113833660393 900.1741793691649 428.3113833660393
+4 701
+"LINE468"
+""
+1 892.0240402612835 420.63736266007 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+700 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E  892.0240402612831 420.6373626600702 892.0240402612831 435.9854040720091
+13 702
+"PUSH_BUTTON119"
+"BORDERLESS_BTN"
+1 859.9999999999998 410 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+701 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  857.9999999999995 407.9999999999998 926.0480805225669 463.9708081440183
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+10 703
+"POLYGON632"
+""
+1 23 117 E E E 1 E 1 E N {1,50,90} E N {232,237,243} E E
+ E E
+702 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 1 0 1 E 0.3975677613600285 0 0.3837010352984772 1130.871766389001 387.8309241420499 1 E 3 25 120.5
+25 168.5
+78 144.5
+ 1
+10 704
+"POLYGON633"
+""
+1 23 117 E E E 1 E 1 E N {1,50,90} E N {0,0,0} E E
+ E E
+703 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 1 0 1 E -0.3975677613600285 7.721136246790935e-17 -8.000173495504326e-17 -0.3837010352984772 1193.176314133565 498.7205233433099 1 E 3 25 120.5
+25 168.5
+78 144.5
+ 1
+4 705
+"LINE469"
+""
+1 1162.024040261284 434.4505999308151 E E E 1 E 1 E N {1,50,90} E N {255,255,255} E E
+ E E
+704 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 10 1 0 1 E  1162.024040261283 434.450599930815 1162.024040261283 443.2757237426802
+7 706
+"ELLIPSE426"
+""
+1 140 111 E E E 1 E 1 E N {1,50,90} E N {232,237,243} E E
+ E E
+705 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 2 1 1 E 0.4289546898884516 0 0.4038958266299758 1101.9703836769 383.4789466101119 1 E 140 111 19 19
+6 707
+"RECTANGLE217"
+""
+1 120 128 E E E 1 E 1 E N {0,0,0} E N "_Transparent" E E
+ E E
+706 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+E "main(mapping event)
+{
+  string desc = dpGetDescription(DP + \".\");
+  ChildPanelOnCentral(\"faceplates/VLV_n/main.pnl\", \"Панель управдения задвижкой: \" + desc, makeDynString(\"$dp:\" + $dp));
+}
+" 0
+ -1 1 3 2 1 E 0.2925942046659517 0 0.2299367993374897 1105.699655863088 392.2044399909409 1 E 120 128 265 268
+4 708
+"LINE470"
+""
+1 1153.873901153403 428.3113833660395 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+707 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E  1153.873901153403 428.3113833660393 1170.174179369165 428.3113833660393
+4 709
+"LINE471"
+""
+1 1162.024040261284 420.63736266007 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+708 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E  1162.024040261283 420.6373626600702 1162.024040261283 435.9854040720091
+13 710
+"PUSH_BUTTON120"
+"BORDERLESS_BTN"
+1 1130 410 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+709 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1128 407.9999999999998 1196.048080522567 463.9708081440183
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+10 711
+"POLYGON634"
+""
+1 23 117 E E E 1 E 1 E N {1,50,90} E N {232,237,243} E E
+ E E
+710 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 1 0 1 E 0.3975677613600285 0 0.3837010352984772 1420.871766389001 387.8309241420499 1 E 3 25 120.5
+25 168.5
+78 144.5
+ 1
+10 712
+"POLYGON635"
+""
+1 23 117 E E E 1 E 1 E N {1,50,90} E N {0,0,0} E E
+ E E
+711 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 1 0 1 E -0.3975677613600285 7.721136246790935e-17 -8.000173495504326e-17 -0.3837010352984772 1483.176314133565 498.7205233433098 1 E 3 25 120.5
+25 168.5
+78 144.5
+ 1
+4 713
+"LINE472"
+""
+1 1452.024040261284 434.4505999308151 E E E 1 E 1 E N {1,50,90} E N {255,255,255} E E
+ E E
+712 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 10 1 0 1 E  1452.024040261283 434.450599930815 1452.024040261283 443.2757237426802
+7 714
+"ELLIPSE427"
+""
+1 140 111 E E E 1 E 1 E N {1,50,90} E N {232,237,243} E E
+ E E
+713 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 2 1 1 E 0.4289546898884516 0 0.4038958266299758 1391.9703836769 383.4789466101119 1 E 140 111 19 19
+6 715
+"RECTANGLE218"
+""
+1 120 128 E E E 1 E 1 E N {0,0,0} E N "_Transparent" E E
+ E E
+714 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+E "main(mapping event)
+{
+  string desc = dpGetDescription(DP + \".\");
+  ChildPanelOnCentral(\"faceplates/VLV_n/main.pnl\", \"Панель управдения задвижкой: \" + desc, makeDynString(\"$dp:\" + $dp));
+}
+" 0
+ -1 1 3 2 1 E 0.2925942046659517 0 0.2299367993374897 1395.699655863088 392.2044399909409 1 E 120 128 265 268
+4 716
+"LINE473"
+""
+1 1443.873901153403 428.3113833660395 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+715 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E  1443.873901153403 428.3113833660393 1460.174179369165 428.3113833660393
+4 717
+"LINE474"
+""
+1 1452.024040261284 420.63736266007 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+716 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E  1452.024040261283 420.6373626600702 1452.024040261283 435.9854040720091
+13 718
+"PUSH_BUTTON121"
+"BORDERLESS_BTN"
+1 1420 410 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+717 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1418 407.9999999999998 1486.048080522567 463.9708081440183
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+10 719
+"POLYGON636"
+""
+1 23 117 E E E 1 E 1 E N {1,50,90} E N {232,237,243} E E
+ E E
+718 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 1 0 1 E 0.3975677613600285 0 0.3837010352984772 1720.871766389001 387.8309241420499 1 E 3 25 120.5
+25 168.5
+78 144.5
+ 1
+10 720
+"POLYGON637"
+""
+1 23 117 E E E 1 E 1 E N {1,50,90} E N {0,0,0} E E
+ E E
+719 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 1 0 1 E -0.3975677613600285 7.721136246790935e-17 -8.000173495504326e-17 -0.3837010352984772 1783.176314133565 498.7205233433099 1 E 3 25 120.5
+25 168.5
+78 144.5
+ 1
+4 721
+"LINE475"
+""
+1 1752.024040261284 434.4505999308151 E E E 1 E 1 E N {1,50,90} E N {255,255,255} E E
+ E E
+720 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 10 1 0 1 E  1752.024040261283 434.450599930815 1752.024040261283 443.2757237426802
+7 722
+"ELLIPSE428"
+""
+1 140 111 E E E 1 E 1 E N {1,50,90} E N {232,237,243} E E
+ E E
+721 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 3 2 1 1 E 0.4289546898884516 0 0.4038958266299758 1691.9703836769 383.4789466101119 1 E 140 111 19 19
+6 723
+"RECTANGLE219"
+""
+1 120 128 E E E 1 E 1 E N {0,0,0} E N "_Transparent" E E
+ E E
+722 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+E "main(mapping event)
+{
+  string desc = dpGetDescription(DP + \".\");
+  ChildPanelOnCentral(\"faceplates/VLV_n/main.pnl\", \"Панель управдения задвижкой: \" + desc, makeDynString(\"$dp:\" + $dp));
+}
+" 0
+ -1 1 3 2 1 E 0.2925942046659517 0 0.2299367993374897 1695.699655863088 392.2044399909409 1 E 120 128 265 268
+4 724
+"LINE476"
+""
+1 1743.873901153403 428.3113833660395 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+723 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E  1743.873901153403 428.3113833660393 1760.174179369165 428.3113833660393
+4 725
+"LINE477"
+""
+1 1752.024040261284 420.63736266007 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+724 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E  1752.024040261283 420.6373626600702 1752.024040261283 435.9854040720091
+13 726
+"PUSH_BUTTON122"
+"BORDERLESS_BTN"
+1 1720 410 E E E 1 E 0 E N "_ButtonText" E N "_Button" E E
+ E E
+725 0 0 0 0 0
+E E E
+8
+1
+LANG:10027 0 
+
+3
+"hoverfclr" "N \"_Transparent\""
+"hoverbclr" "N \"_Transparent\""
+"layoutAlignment" "AlignNone"
+1
+LANG:10027 30 Noto Sans,-1,20,5,50,0,0,0,0,0
+0  1718 407.9999999999998 1786.048080522567 463.9708081440183
+
+P 
+4294967295
+"pictures/hatch/HATCH_60x40.svg"
+1
+LANG:10027 0 
+E E E E
+10 727
+"POLYGON638"
+""
+1 120 250 E E E 1 E 1 E N "_Transparent" E N "STD_valve_open" E E
+ E E
+726 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 1 0 1 -110 350 1 E 3 120 250
+140 260
+120 270
+ 1
+10 728
+"POLYGON639"
+""
+1 120 250 E E E 1 E 1 E N "_Transparent" E N "STD_valve_open" E E
+ E E
+727 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 1 0 1 -110 450 1 E 3 120 250
+140 260
+120 270
+ 1
+10 729
+"POLYGON640"
+""
+1 120 250 E E E 1 E 1 E N "_Transparent" E N "STD_valve_open" E E
+ E E
+728 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 1 0 1 -110 580 1 E 3 120 250
+140 260
+120 270
+ 1
+10 730
+"POLYGON641"
+""
+1 120 250 E E E 1 E 1 E N "_Transparent" E N "STD_valve_open" E E
+ E E
+729 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 1 0 1 420 450 1 E 3 120 250
+140 260
+120 270
+ 1
+10 731
+"POLYGON642"
+""
+1 120 250 E E E 1 E 1 E N "_Transparent" E N "STD_valve_open" E E
+ E E
+730 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 1 0 1 1220 450 1 E 3 120 250
+140 260
+120 270
+ 1
+10 732
+"POLYGON643"
+""
+1 120 250 E E E 1 E 1 E N "_Transparent" E N "STD_valve_open" E E
+ E E
+731 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 1 0 1 1760 -170 1 E 3 120 250
+140 260
+120 270
+ 1
+10 733
+"POLYGON644"
+""
+1 120 250 E E E 1 E 1 E N "_Transparent" E N "STD_valve_open" E E
+ E E
+732 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 1 0 1 1760 -100 1 E 3 120 250
+140 260
+120 270
+ 1
+10 734
+"POLYGON645"
+""
+1 120 250 E E E 1 E 1 E N "_Transparent" E N "SiemensNaturalGreenDark" E E
+ E E
+733 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 1 0 1 1760 590 1 E 3 120 250
+140 260
+120 270
+ 1
+10 735
+"POLYGON646"
+""
+1 120 250 E E E 1 E 1 E N "_Transparent" E N "STD_trend_pen6" E E
+ E E
+734 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 1 0 1 1760 -10 1 E 3 120 250
+140 260
+120 270
+ 1
+10 736
+"POLYGON647"
+""
+1 120 250 E E E 1 E 1 E N "_Transparent" E N "STD_trend_pen6" E E
+ E E
+735 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 1 0 1 1760 -220 1 E 3 120 250
+140 260
+120 270
+ 1
+7 737
+"ELLIPSE187"
+""
+1 115 125 E E E 1 E 1 E N {0,0,0} E N "sd_valve_closed" E E
+ E E
+736 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E 0.793527824279098 0 0.7413469114802133 708.7443002079035 417.3316360649733 1 E 115 125 35 35
+10 738
+"POLYGON351"
+""
+1 30 150 E E E 1 E 1 E N {0,0,0} E N "sd_valve_closed" E E
+ E E
+737 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E 0.2934052459519355 0 0.2206389617500635 791.0844815036876 461.3358705964059 1 E 3 30 150
+30 217.2
+125.2 217.2
+ 1
+10 739
+"POLYGON352"
+""
+1 30 150 E E E 1 E 1 E N {0,0,0} E N "sd_valve_closed" E E
+ E E
+738 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E 0.2934052459519355 -3.356897258562088e-17 -2.89223604177905e-17 -0.2206389617500635 791.0844815036876 557.1814355806334 1 E 3 30 150
+30 217.2
+125.2 217.2
+ 1
+6 740
+"RECTANGLE136"
+""
+1 140 50 E E E 1 E 1 E N "Black" E N "sd_valve_closed" E E
+ E E
+739 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+E E 0 0 3 2 1 E 1.274339271477857 1.188789353509937 -1.274339271477857 1.188789353509937 675.9317529826053 276.5366727943147 1 E 140 50 143 59
+6 741
+"RECTANGLE137"
+""
+1 140 50 E E E 1 E 1 E N "Black" E N "sd_valve_closed" E E
+ E E
+740 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+E E 0 0 3 2 1 E -1.274339271477857 1.188789353509937 1.274339271477857 1.188789353509937 897.6667862197526 276.5366727943147 1 E 140 50 143 59
+7 742
+"ELLIPSE429"
+""
+1 115 125 E E E 1 E 1 E N {0,0,0} E N "sd_valve_closed" E E
+ E E
+741 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E 0.793527824279098 0 0.7413469114802133 978.7443002079035 417.3316360649733 1 E 115 125 35 35
+10 743
+"POLYGON648"
+""
+1 30 150 E E E 1 E 1 E N {0,0,0} E N "sd_valve_closed" E E
+ E E
+742 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E 0.2934052459519355 0 0.2206389617500635 1061.084481503688 461.3358705964059 1 E 3 30 150
+30 217.2
+125.2 217.2
+ 1
+10 744
+"POLYGON649"
+""
+1 30 150 E E E 1 E 1 E N {0,0,0} E N "sd_valve_closed" E E
+ E E
+743 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E 0.2934052459519355 -3.356897258562088e-17 -2.89223604177905e-17 -0.2206389617500635 1061.084481503688 557.1814355806334 1 E 3 30 150
+30 217.2
+125.2 217.2
+ 1
+6 745
+"RECTANGLE220"
+""
+1 140 50 E E E 1 E 1 E N "Black" E N "sd_valve_closed" E E
+ E E
+744 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+E E 0 0 3 2 1 E 1.274339271477857 1.188789353509937 -1.274339271477857 1.188789353509937 945.9317529826053 276.5366727943147 1 E 140 50 143 59
+6 746
+"RECTANGLE221"
+""
+1 140 50 E E E 1 E 1 E N "Black" E N "sd_valve_closed" E E
+ E E
+745 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+E E 0 0 3 2 1 E -1.274339271477857 1.188789353509937 1.274339271477857 1.188789353509937 1167.666786219752 276.5366727943147 1 E 140 50 143 59
+7 747
+"ELLIPSE430"
+""
+1 115 125 E E E 1 E 1 E N {0,0,0} E N "sd_valve_closed" E E
+ E E
+746 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E 0.793527824279098 0 0.7413469114802133 1268.744300207904 417.3316360649733 1 E 115 125 35 35
+10 748
+"POLYGON650"
+""
+1 30 150 E E E 1 E 1 E N {0,0,0} E N "sd_valve_closed" E E
+ E E
+747 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E 0.2934052459519355 0 0.2206389617500635 1351.084481503688 461.3358705964059 1 E 3 30 150
+30 217.2
+125.2 217.2
+ 1
+10 749
+"POLYGON651"
+""
+1 30 150 E E E 1 E 1 E N {0,0,0} E N "sd_valve_closed" E E
+ E E
+748 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E 0.2934052459519355 -3.356897258562088e-17 -2.89223604177905e-17 -0.2206389617500635 1351.084481503688 557.1814355806334 1 E 3 30 150
+30 217.2
+125.2 217.2
+ 1
+6 750
+"RECTANGLE222"
+""
+1 140 50 E E E 1 E 1 E N "Black" E N "sd_valve_closed" E E
+ E E
+749 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+E E 0 0 3 2 1 E 1.274339271477857 1.188789353509937 -1.274339271477857 1.188789353509937 1235.931752982605 276.5366727943147 1 E 140 50 143 59
+6 751
+"RECTANGLE223"
+""
+1 140 50 E E E 1 E 1 E N "Black" E N "sd_valve_closed" E E
+ E E
+750 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+E E 0 0 3 2 1 E -1.274339271477857 1.188789353509937 1.274339271477857 1.188789353509937 1457.666786219752 276.5366727943147 1 E 140 50 143 59
+7 752
+"ELLIPSE431"
+""
+1 115 125 E E E 1 E 1 E N {0,0,0} E N "sd_valve_closed" E E
+ E E
+751 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E 0.793527824279098 0 0.7413469114802133 1568.744300207904 417.3316360649733 1 E 115 125 35 35
+10 753
+"POLYGON652"
+""
+1 30 150 E E E 1 E 1 E N {0,0,0} E N "sd_valve_closed" E E
+ E E
+752 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E 0.2934052459519355 0 0.2206389617500635 1651.084481503688 461.3358705964059 1 E 3 30 150
+30 217.2
+125.2 217.2
+ 1
+10 754
+"POLYGON653"
+""
+1 30 150 E E E 1 E 1 E N {0,0,0} E N "sd_valve_closed" E E
+ E E
+753 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E 0.2934052459519355 -3.356897258562088e-17 -2.89223604177905e-17 -0.2206389617500635 1651.084481503688 557.1814355806334 1 E 3 30 150
+30 217.2
+125.2 217.2
+ 1
+6 755
+"RECTANGLE224"
+""
+1 140 50 E E E 1 E 1 E N "Black" E N "sd_valve_closed" E E
+ E E
+754 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+E E 0 0 3 2 1 E 1.274339271477857 1.188789353509937 -1.274339271477857 1.188789353509937 1535.931752982605 276.5366727943147 1 E 140 50 143 59
+6 756
+"RECTANGLE225"
+""
+1 140 50 E E E 1 E 1 E N "Black" E N "sd_valve_closed" E E
+ E E
+755 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+E E 0 0 3 2 1 E -1.274339271477857 1.188789353509937 1.274339271477857 1.188789353509937 1757.666786219752 276.5366727943147 1 E 140 50 143 59
+10 759
+"POLYGON654"
+""
+1 120 250 E E E 1 E 1 E N "_Transparent" E N "equipment_ready_to_work" E E
+ E E
+758 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E 1 0 1 -110 70 1 E 3 120 250
+140 260
+120 270
+ 1
+4 760
+"LINE479"
+""
+1 749.9999999999998 249.9999999999983 E E E 1 E 1 E N "STD_trend_pen6" E N {255,255,255} E E
+ E E
+759 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E  749.9999999999997 249.9999999999987 749.9999999999997 510.0000000000004
+4 761
+"LINE480"
+""
+1 1020 250 E E E 1 E 1 E N "STD_trend_pen6" E N {255,255,255} E E
+ E E
+760 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E  1020 250.0000000000004 1020 510.0000000000021
+4 762
+"LINE481"
+""
+1 1310 250 E E E 1 E 1 E N "STD_trend_pen6" E N {255,255,255} E E
+ E E
+761 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E  1310 250.0000000000004 1310 510.0000000000021
+4 763
+"LINE482"
+""
+1 1610 250 E E E 1 E 1 E N "STD_trend_pen6" E N {255,255,255} E E
+ E E
+762 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E  1610 250.0000000000004 1610 510.0000000000021
+4 764
+"LINE483"
+""
+1 499.9999999999987 40 E E E 1 E 1 E N "STD_trend_pen6" E N {255,255,255} E E
+ E E
+763 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E  500.0000000000006 39.9999999999997 1890 39.9999999999997
+4 765
+"LINE484"
+""
+1 749.9999999999999 250 E E E 1 E 1 E N "STD_trend_pen6" E N {255,255,255} E E
+ E E
+764 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E  750 249.9999999999997 829.9999999999997 249.9999999999997
+4 766
+"LINE485"
+""
+1 849.9999999999995 250 E E E 1 E 1 E N "STD_trend_pen6" E N {255,255,255} E E
+ E E
+765 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E  849.9999999999999 249.9999999999997 1100 249.9999999999997
+4 767
+"LINE486"
+""
+1 1120 250 E E E 1 E 1 E N "STD_trend_pen6" E N {255,255,255} E E
+ E E
+766 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E  1120 249.9999999999997 1390 249.9999999999997
+4 768
+"LINE487"
+""
+1 1410 250 E E E 1 E 1 E N "STD_trend_pen6" E N {255,255,255} E E
+ E E
+767 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E  1410 249.9999999999997 1690 249.9999999999997
+4 769
+"LINE488"
+""
+1 1710 250 E E E 1 E 1 E N "STD_trend_pen6" E N {255,255,255} E E
+ E E
+768 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E  1710 249.9999999999997 1880 249.9999999999997
+4 771
+"LINE490"
+""
+1 650 160 E E E 1 E 1 E N "SiemensNaturalGreenDark" E N {255,255,255} E E
+ E E
+770 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E  649.9999999999999 160.000000000001 649.9999999999999 850.0000000000007
+4 773
+"LINE492"
+""
+1 939.9999999999998 719.9999999999998 E E E 1 E 1 E N "SiemensNaturalGreenDark" E N {255,255,255} E E
+ E E
+772 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E  939.9999999999997 719.9999999999999 939.9999999999997 849.0000000000005
+4 774
+"LINE493"
+""
+1 1210 720 E E E 1 E 1 E N "SiemensNaturalGreenDark" E N {255,255,255} E E
+ E E
+773 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E  1210 720.0000000000002 1210 849.0000000000006
+4 775
+"LINE494"
+""
+1 1510 720 E E E 1 E 1 E N "SiemensNaturalGreenDark" E N {255,255,255} E E
+ E E
+774 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E  1510 720.0000000000002 1510 849.0000000000006
+4 776
+"LINE495"
+""
+1 939.9999999999998 389.9999999999994 E E E 1 E 1 E N "SiemensNaturalGreenDark" E N {255,255,255} E E
+ E E
+775 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E  939.9999999999997 389.9999999999998 939.9999999999997 699.0000000000006
+4 777
+"LINE496"
+""
+1 1210 390 E E E 1 E 1 E N "SiemensNaturalGreenDark" E N {255,255,255} E E
+ E E
+776 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E  1210 390.0000000000005 1210 699.0000000000011
+4 778
+"LINE497"
+""
+1 1510 390 E E E 1 E 1 E N "SiemensNaturalGreenDark" E N {255,255,255} E E
+ E E
+777 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E  1510 390.0000000000005 1510 699.0000000000011
+4 779
+"LINE498"
+""
+1 1800 390 E E E 1 E 1 E N "SiemensNaturalGreenDark" E N {255,255,255} E E
+ E E
+778 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E  1800 390.0000000000006 1800 849.0000000000017
+4 780
+"LINE499"
+""
+1 489.9999999999989 850 E E E 1 E 1 E N "SiemensNaturalGreenDark" E N {255,255,255} E E
+ E E
+779 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E  490.0000000000007 849.9999999999997 1890 849.9999999999997
+4 781
+"LINE500"
+""
+1 840 390 E E E 1 E 1 E N "SiemensNaturalGreenDark" E N {255,255,255} E E
+ E E
+780 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E  840 389.9999999999997 939.9999999999999 389.9999999999997
+4 782
+"LINE501"
+""
+1 1110 390.0000000000007 E E E 1 E 1 E N "SiemensNaturalGreenDark" E N {255,255,255} E E
+ E E
+781 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E  1110 390.0000000000005 1210 390.0000000000005
+4 783
+"LINE502"
+""
+1 1400 390 E E E 1 E 1 E N "SiemensNaturalGreenDark" E N {255,255,255} E E
+ E E
+782 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E  1400 389.9999999999997 1510 389.9999999999997
+4 784
+"LINE503"
+""
+1 1700 390 E E E 1 E 1 E N "SiemensNaturalGreenDark" E N {255,255,255} E E
+ E E
+783 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E  1700 389.9999999999997 1800 389.9999999999997
+4 785
+"LINE504"
+""
+1 549.9999999999999 160.0000000000003 E E E 1 E 1 E N "SiemensNaturalGreenDark" E N {255,255,255} E E
+ E E
+784 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E  550 160 649.9999999999999 160
+4 788
+"LINE507"
+""
+1 310 609.9999999999993 E E E 1 E 1 E N "STD_valve_open" E N {255,255,255} E E
+ E E
+787 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E  310 609.9999999999997 310 841.9854040720091
+4 789
+"LINE508"
+""
+1 670 510 E E E 1 E 1 E N "STD_valve_open" E N {255,255,255} E E
+ E E
+788 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E  669.9999999999999 510.0000000000002 669.9999999999999 710.0000000000016
+4 790
+"LINE509"
+""
+1 960 510 E E E 1 E 1 E N "STD_valve_open" E N {255,255,255} E E
+ E E
+789 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E  960 510.0000000000002 960 710.0000000000016
+4 791
+"LINE510"
+""
+1 1230 510 E E E 1 E 1 E N "STD_valve_open" E N {255,255,255} E E
+ E E
+790 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E  1230 510.0000000000002 1230 710.0000000000016
+4 792
+"LINE511"
+""
+1 1530 510 E E E 1 E 1 E N "STD_valve_open" E N {255,255,255} E E
+ E E
+791 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E  1530 510.0000000000002 1530 710.0000000000016
+4 797
+"LINE516"
+""
+1 1200 90 E E E 1 E 1 E N "STD_valve_open" E N {255,255,255} E E
+ E E
+796 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E  1200 90.00000000000017 1200 209.2386171708464
+4 798
+"LINE517"
+""
+1 9.999999999999606 610.0000000000003 E E E 1 E 1 E N "STD_valve_open" E N {255,255,255} E E
+ E E
+797 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E  10 610 310.0000000000001 610
+4 799
+"LINE518"
+""
+1 10 840 E E E 1 E 1 E N "STD_valve_open" E N {255,255,255} E E
+ E E
+798 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E  10.00000000000039 839.9999999999997 310.0000000000005 839.9999999999997
+4 801
+"LINE520"
+""
+1 659.9999999999992 710 E E E 1 E 1 E N "STD_valve_open" E N {255,255,255} E E
+ E E
+800 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E  660.0000000000003 709.9999999999997 1530 709.9999999999997
+4 806
+"LINE525"
+""
+1 839.9999999999989 210 E E E 1 E 1 E N "STD_valve_open" E N {255,255,255} E E
+ E E
+805 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E  840 209.9999999999997 1700 209.9999999999997
+4 807
+"LINE526"
+""
+1 1199.999999999999 160 E E E 1 E 1 E N "STD_valve_open" E N {255,255,255} E E
+ E E
+806 0 0 0 0 0
+E E E
+0
+1
+LANG:10027 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 2 3 2 1 E  1200 159.9999999999997 1880 159.9999999999997
+0
+LAYER, 1 
+1
+LANG:10027 0 
+0
+LAYER, 2 
+1
+LANG:10027 0 
+0
+LAYER, 3 
+1
+LANG:10027 0 
+0
+LAYER, 4 
+1
+LANG:10027 0 
+0
+LAYER, 5 
+1
+LANG:10027 0 
+0
+LAYER, 6 
+1
+LANG:10027 0 
+0
+LAYER, 7 
+1
+LANG:10027 0 
+0
+1 17 "SHAPE_GROUP151" -1
+7 0 
+621 622 623 624 625 626 627 
+
+"layoutAlignment" "AlignNone"
+"" ""
+1 18 "SHAPE_GROUP152" -1
+7 0 
+629 630 631 632 633 634 635 
+
+"layoutAlignment" "AlignNone"
+"" ""
+1 19 "SHAPE_GROUP153" -1
+7 0 
+637 638 639 640 641 642 643 
+
+"layoutAlignment" "AlignNone"
+"" ""
+1 20 "SHAPE_GROUP154" -1
+7 0 
+645 646 647 648 649 650 651 
+
+"layoutAlignment" "AlignNone"
+"" ""
+1 21 "SHAPE_GROUP131" -1
+7 0 
+653 654 655 656 657 658 659 
+
+"layoutAlignment" "AlignNone"
+"" ""
+1 22 "SHAPE_GROUP155" -1
+7 0 
+660 661 662 663 664 665 666 
+
+"layoutAlignment" "AlignNone"
+"" ""
+1 23 "SHAPE_GROUP156" -1
+7 0 
+667 668 669 670 671 672 673 
+
+"layoutAlignment" "AlignNone"
+"" ""
+1 24 "SHAPE_GROUP157" -1
+7 0 
+674 675 676 677 678 679 680 
+
+"layoutAlignment" "AlignNone"
+"" ""
+1 25 "SHAPE_GROUP158" -1
+7 0 
+681 682 683 684 685 686 687 
+
+"layoutAlignment" "AlignNone"
+"" ""
+1 26 "SHAPE_GROUP159" -1
+7 0 
+688 689 690 691 692 693 694 
+
+"layoutAlignment" "AlignNone"
+"" ""
+1 27 "SHAPE_GROUP160" -1
+7 0 
+695 696 697 698 699 700 701 
+
+"layoutAlignment" "AlignNone"
+"" ""
+1 28 "SHAPE_GROUP161" -1
+7 0 
+703 704 705 706 707 708 709 
+
+"layoutAlignment" "AlignNone"
+"" ""
+1 29 "SHAPE_GROUP162" -1
+7 0 
+711 712 713 714 715 716 717 
+
+"layoutAlignment" "AlignNone"
+"" ""
+1 30 "SHAPE_GROUP163" -1
+7 0 
+719 720 721 722 723 724 725 
+
+"layoutAlignment" "AlignNone"
+"" ""
+1 31 "SHAPE_GROUP99" -1
+2 0 
+741 740 
+
+"layoutAlignment" "AlignNone"
+"" ""
+1 32 "SHAPE_GROUP164" -1
+2 0 
+746 745 
+
+"layoutAlignment" "AlignNone"
+"" ""
+1 33 "SHAPE_GROUP165" -1
+2 0 
+751 750 
+
+"layoutAlignment" "AlignNone"
+"" ""
+1 34 "SHAPE_GROUP166" -1
+2 0 
+756 755 
+
+"layoutAlignment" "AlignNone"
+"" ""
+0
